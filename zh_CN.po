@@ -409,7 +409,7 @@ msgid "PLUGIN.damage_speed_crit.description"
 msgstr ""
 "武器伤害 +10%。\n"
 "武器刷新 +10%。\n"
-"暴击率 +5%。\n"
+"暴击概率 +5%。\n"
 "暴击伤害 +15%。"
 
 #. Plugin - name (defrag_on_safe_folder)
