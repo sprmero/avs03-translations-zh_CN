@@ -14,8 +14,7 @@ msgstr "砖块"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"+40 点最大生命值。\n"
+msgstr "+40 点最大生命值。\n"
 "+12 点护甲。\n"
 "指针速度为 0.8x。\n"
 "武器伤害为 0.85x。\n"
@@ -29,8 +28,7 @@ msgstr "默认"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"没有指针类加成或惩罚。\n"
+msgstr "没有指针类加成或惩罚。\n"
 "均衡的基础指针。"
 
 #. Class select - name (null)
@@ -41,8 +39,7 @@ msgstr "空指针"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"-25 点最大生命值。\n"
+msgstr "-25 点最大生命值。\n"
 "+8 点丢包。\n"
 "幸运为 1.5x。\n"
 "武器伤害为 0.9x。"
@@ -55,8 +52,7 @@ msgstr "向量"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr ""
-"指针速度为 1.25x。\n"
+msgstr "指针速度为 1.25x。\n"
 "+15 点丢包。\n"
 "-25 点最大生命值。\n"
 "武器伤害为 0.9x。\n"
@@ -70,8 +66,7 @@ msgstr "断点"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"暴击率 +12%。\n"
+msgstr "暴击率 +12%。\n"
 "暴击伤害为 1.25x。\n"
 "-15 点最大生命值。\n"
 "指针速度为 0.9x。\n"
@@ -85,8 +80,7 @@ msgstr "线程"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"处理速度为 1.3x。\n"
+msgstr "处理速度为 1.3x。\n"
 "武器刷新为 1.12x。\n"
 "经验获取为 1.08x。\n"
 "武器伤害为 0.85x。"
@@ -99,8 +93,7 @@ msgstr "管理员"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"初始拥有 1 个密钥。\n"
+msgstr "初始拥有 1 个密钥。\n"
 "硬币获取为 1.3x。\n"
 "拾取范围为 1.3x。\n"
 "商店折扣 +10%。\n"
@@ -255,8 +248,7 @@ msgstr "硬件中断"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"+5 点护甲。\n"
+msgstr "+5 点护甲。\n"
 "当受到伤害时，+25 点丢包（持续 10 秒）。"
 
 #. Plugin - name (armor_missing_hp)
@@ -277,8 +269,7 @@ msgstr "企业版"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"+64 点最大生命值。\n"
+msgstr "+64 点最大生命值。\n"
 "+12 点生命再生。"
 
 #. Plugin - name (big_wave_damage)
@@ -359,8 +350,7 @@ msgstr "关键电池"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"指针速度 +10%。\n"
+msgstr "指针速度 +10%。\n"
 "当受到伤害时，指针速度 +30%（持续 10秒）。"
 
 #. Plugin - name (damage_boost)
@@ -401,8 +391,7 @@ msgstr "性能选项"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"武器伤害 +10%。\n"
+msgstr "武器伤害 +10%。\n"
 "武器刷新 +10%。\n"
 "暴击概率 +5%。\n"
 "暴击伤害 +15%。"
@@ -575,8 +564,7 @@ msgstr "粗笨强壮"
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"武器伤害变为原来的 1.25x。\n"
+msgstr "武器伤害变为原来的 1.25x。\n"
 "指针速度 -10%。"
 
 #. Plugin - name (smart_recovery)
@@ -587,8 +575,7 @@ msgstr "智能恢复"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"+10 点最大生命值。\n"
+msgstr "+10 点最大生命值。\n"
 "当打开安全文件夹时，回复 25% 的最大生命值。"
 
 #. Plugin - name (weapon_speed_boost)
@@ -639,8 +626,7 @@ msgstr "自述文件"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"经验获取 +10%。\n"
+msgstr "经验获取 +10%。\n"
 "当受到伤害时，获得 +4 点经验。"
 
 #. Plugin - name (morgan_av)
@@ -711,8 +697,7 @@ msgstr "刷新超频"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"武器刷新 +50%。\n"
+msgstr "武器刷新 +50%。\n"
 "指针速度 -15%。"
 
 #. Plugin - name (wallet_damage)
@@ -783,8 +768,7 @@ msgstr "超线程"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"武器生成变为原来的 1.5x。\n"
+msgstr "武器生成变为原来的 1.5x。\n"
 "武器伤害变为原来的 0.75x。"
 
 #. Plugin - name (tank_core)
@@ -835,8 +819,7 @@ msgstr "任务管理器"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"武器刷新变为原来的 2.0x。\n"
+msgstr "武器刷新变为原来的 2.0x。\n"
 "武器大小变为原来的 0.75x。"
 
 #. Plugin - name (raid_0)
@@ -2318,8 +2301,7 @@ msgstr "已登录"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"要开始，请单击您的用户名。\n"
+msgstr "要开始，请单击您的用户名。\n"
 "登录后，只需单击菜单顶部的您的名字，即可切换用户。"
 
 #. Login screen - turn off computer button
@@ -2652,8 +2634,7 @@ msgstr "特别感谢"
 #. Credits window - note under Special Thanks
 #. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
 msgid "CREDITS.special_thanks_note"
-msgstr ""
-"非常感谢大家的帮助，让我有机会实现这个梦想。我爱你们！！！\n"
+msgstr "非常感谢大家的帮助，让我有机会实现这个梦想。我爱你们！！！\n"
 "-Shaun"
 
 #. Profile stats window - statistics tab
@@ -2699,8 +2680,7 @@ msgstr "打开安装程序可以获取插件，插件可以添加被动能力。
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr ""
-"武器驱动可以为武器提供专属升级。解锁后，当您的武器升至 8 级、 16 级、24 级时，便可获得这些升级。"
+msgstr "武器驱动可以为武器提供专属升级。解锁后，当您的武器升至 8 级、 16 级、24 级时，便可获得这些升级。"
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
@@ -3556,8 +3536,7 @@ msgstr "快速入门指南"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"欢迎来到{game}！\n"
+msgstr "欢迎来到{game}！\n"
 "\n"
 "我是 Virry，接下来由我带您了解一些基本玩法。"
 
@@ -3565,8 +3544,7 @@ msgstr ""
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"首先让我们动起来。\n"
+msgstr "首先让我们动起来。\n"
 "\n"
 "使用 {move} 在屏幕上移动。\n"
 "\n"
@@ -3578,8 +3556,7 @@ msgstr ""
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"要开始游戏，您需要选择{class}和{difficulty}。\n"
+msgstr "要开始游戏，您需要选择{class}和{difficulty}。\n"
 "\n"
 "现在我们先选择{default}指针，随着游戏进程推进，会有更多指针解锁。\n"
 "\n"
@@ -3593,8 +3570,7 @@ msgstr ""
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"接下来您可以选择初始武器。\n"
+msgstr "接下来您可以选择初始武器。\n"
 "\n"
 "随着本轮游戏的进展，不断升级，您的构筑里会有更多的武器。\n"
 "\n"
@@ -3606,8 +3582,7 @@ msgstr ""
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"游戏的目标是生存下去。\n"
+msgstr "游戏的目标是生存下去。\n"
 "\n"
 "游戏共有 5 回合，每回合 5 分钟。\n"
 "\n"
@@ -3616,8 +3591,7 @@ msgstr ""
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"生存技巧：\n"
+msgstr "生存技巧：\n"
 "躲避敌人、收集经验和硬币、打开文件。有些文件可能有风险，有些文件需要密钥，有些文件只有好处，没有坏"
 "处。\n"
 "\n"
@@ -3627,15 +3601,13 @@ msgstr ""
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"清除敌人和及时抵达{safe}都可以使您获得豆豆。 完成任务还可获取额外的豆豆。 用您的豆豆购买新的指针类、"
+msgstr "清除敌人和及时抵达{safe}都可以使您获得豆豆。 完成任务还可获取额外的豆豆。 用您的豆豆购买新的指针类、"
 "武器、升级、插件、文件、{vapor}商品，还有更多！"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"暂时就这些啦！\n"
+msgstr "暂时就这些啦！\n"
 "\n"
 "选择您的第一件武器，开玩，求生，尽情享受吧 :)"
 
@@ -3690,8 +3662,7 @@ msgstr "跳过插件安装。"
 #. Installer skip tooltip when a Key is refunded
 #. source: Skips installing plugin and refunds Key.
 msgid "UI.installer_skip"
-msgstr ""
-"跳过插件安装。\n"
+msgstr "跳过插件安装。\n"
 "使用的密钥会被返还。"
 
 #. Side Task HUD progress line
@@ -3784,8 +3755,7 @@ msgstr "初始武器"
 #. Installer Remove button tooltip
 #. source: Skips installing plugin and removes it from selection pool.
 msgid "UI.installer_remove_tooltip"
-msgstr ""
-"跳过插件安装，并将其从选择池中移除。\n"
+msgstr "跳过插件安装，并将其从选择池中移除。\n"
 "使用的密钥不会被返还。"
 
 #. Installer Install button tooltip
@@ -3822,8 +3792,7 @@ msgstr "您赢了！"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"发生致命的异常错误，为防止数据损坏，系统已被终止。\n"
+msgstr "发生致命的异常错误，为防止数据损坏，系统已被终止。\n"
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
@@ -4594,8 +4563,7 @@ msgstr "娜塔莎之怒"
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr ""
-"同时启用所有标准策略。敌人速度更快、更强、数量更多。每个战斗文件夹都会让当前生命值减半。没有额外武"
+msgstr "同时启用所有标准策略。敌人速度更快、更强、数量更多。每个战斗文件夹都会让当前生命值减半。没有额外武"
 "器、注册机或重选机会。虚空效果翻倍。逃脱时间减半。"
 
 #. Policy complete unlock requirement template
@@ -5160,16 +5128,14 @@ msgstr "SHZip v2.03"
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"正在解压： \n"
+msgstr "正在解压： \n"
 "%s 从 /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"剩余时间：{m}分 {s}秒（{cur} KB，共 {max} KB）\n"
+msgstr "剩余时间：{m}分 {s}秒（{cur} KB，共 {max} KB）\n"
 "处理速度：{rate} KB 每秒"
 
 #. Zip extractor window
@@ -5537,8 +5503,7 @@ msgstr "超频"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"伤害变为原来的 1.6x。\n"
+msgstr "伤害变为原来的 1.6x。\n"
 "刷新减少 -15%。"
 
 #. Weapon driver / overclock card - name (hyperthreaded)
@@ -5549,8 +5514,7 @@ msgstr "超线程"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"数量 +2。\n"
+msgstr "数量 +2。\n"
 "减少伤害 -20%。"
 
 #. Weapon driver / overclock card - name (turbo_clock)
@@ -5561,8 +5525,7 @@ msgstr "睿频时钟"
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"速度 +50%。\n"
+msgstr "速度 +50%。\n"
 "特性减少 -15%。"
 
 #. Weapon driver / overclock card - name (bloated_cache)
@@ -5613,8 +5576,7 @@ msgstr "自动回复"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"数量 +1。\n"
+msgstr "数量 +1。\n"
 "速度 +20%。\n"
 "大小 +15%。"
 
@@ -5626,8 +5588,7 @@ msgstr "好友列表"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"数量 +2。\n"
+msgstr "数量 +2。\n"
 "特性 +15%。"
 
 #. Weapon driver / overclock card - name (blatand_pair)
@@ -5638,8 +5599,7 @@ msgstr "已配对设备"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"数量 +1。\n"
+msgstr "数量 +1。\n"
 "特性 +25%。\n"
 "速度 +20%。"
 
@@ -5651,8 +5611,7 @@ msgstr "肥皂"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"数量 +1。\n"
+msgstr "数量 +1。\n"
 "大小 +40%。"
 
 #. Weapon driver / overclock card - name (bubbles_suds)
@@ -5673,8 +5632,7 @@ msgstr "寻道"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"将击退转化为卡顿。\n"
+msgstr "将击退转化为卡顿。\n"
 "速度 +60%。"
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
@@ -5695,8 +5653,7 @@ msgstr "绕行"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"将灼烧转化为卡顿。\n"
+msgstr "将灼烧转化为卡顿。\n"
 "大小 +35%。\n"
 "伤害 +15%。"
 
@@ -5708,8 +5665,7 @@ msgstr "施工路段"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"数量 +1。\n"
+msgstr "数量 +1。\n"
 "特性 +30%。"
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
@@ -5720,8 +5676,7 @@ msgstr "浏览器劫持"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"将卡顿转化为感染。\n"
+msgstr "将卡顿转化为感染。\n"
 "数量 +1。\n"
 "特性 +25%。"
 
@@ -5743,8 +5698,7 @@ msgstr "劈裂"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"将击退转化为感染。 大小 +80%。\n"
+msgstr "将击退转化为感染。 大小 +80%。\n"
 "数量 -0.5。"
 
 #. Weapon driver / overclock card - name (cut_papercut)
@@ -5755,8 +5709,7 @@ msgstr "剪纸刀"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"数量 +2。\n"
+msgstr "数量 +2。\n"
 "速度 +25%。"
 
 #. Weapon driver / overclock card - name (email_cc)
@@ -5767,8 +5720,7 @@ msgstr "火焰邮件"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"将感染转化为灼烧。数量 +1。\n"
+msgstr "将感染转化为灼烧。数量 +1。\n"
 "速度 +35%。"
 
 #. Weapon driver / overclock card - name (email_bounce)
@@ -5809,8 +5761,7 @@ msgstr "粗体"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr ""
-"大小 +60%。特性 +60%。\n"
+msgstr "大小 +60%。特性 +60%。\n"
 "数量 -25%。"
 
 #. Weapon driver / overclock card - name (fontart_wordart)
@@ -5821,8 +5772,7 @@ msgstr "WordArt"
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"大小 +40%。\n"
+msgstr "大小 +40%。\n"
 "数量 +1。"
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
@@ -5833,8 +5783,7 @@ msgstr "基准测试"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"将击退转化为灼烧。伤害 +25%。\n"
+msgstr "将击退转化为灼烧。伤害 +25%。\n"
 "速度 +20%。"
 
 #. Weapon driver / overclock card - name (fraps_vsync)
@@ -5845,8 +5794,7 @@ msgstr "垂直同步"
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"帧数会在墙壁间反弹。\n"
+msgstr "帧数会在墙壁间反弹。\n"
 "大小 +20%。"
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
@@ -5857,8 +5805,7 @@ msgstr "猎头者"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"增加处决概率。将击退转化为灼烧。\n"
+msgstr "增加处决概率。将击退转化为灼烧。\n"
 "伤害 -15%。"
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
@@ -5879,8 +5826,7 @@ msgstr "燃烧弹"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr ""
-"将击退转化为灼烧。数量 +1。\n"
+msgstr "将击退转化为灼烧。数量 +1。\n"
 "特性 +20%。"
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
@@ -5901,8 +5847,7 @@ msgstr "拨号拥塞"
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"将击退转化为卡顿。数量 +1。\n"
+msgstr "将击退转化为卡顿。数量 +1。\n"
 "大小 +25%。"
 
 #. Weapon driver / overclock card - name (modem_broadband)
@@ -5913,8 +5858,7 @@ msgstr "宽带"
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"速度 +50%。\n"
+msgstr "速度 +50%。\n"
 "伤害 +20%。"
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
@@ -5925,8 +5869,7 @@ msgstr "标签页过载"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"将感染转化为灼烧。伤害 +35%。\n"
+msgstr "将感染转化为灼烧。伤害 +35%。\n"
 "特性 +35%。"
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
@@ -5947,8 +5890,7 @@ msgstr "溢出"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"大小 +100%。\n"
+msgstr "大小 +100%。\n"
 "伤害 -20%。"
 
 #. Weapon driver / overclock card - name (paint_fill)
@@ -5959,8 +5901,7 @@ msgstr "油漆桶"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr ""
-"数量 +1。\n"
+msgstr "数量 +1。\n"
 "特性 +40%。"
 
 #. Weapon driver / overclock card - name (pinball_tilted)
@@ -5971,8 +5912,7 @@ msgstr "倾斜"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"弹墙时增加大小，最多触发两次。\n"
+msgstr "弹墙时增加大小，最多触发两次。\n"
 "大小减少 -30%。"
 
 #. Weapon driver / overclock card - name (quarantine_strict)
@@ -5983,8 +5923,7 @@ msgstr "严格"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"将击退转化为感染。\n"
+msgstr "将击退转化为感染。\n"
 "特性 +70%。"
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
@@ -5995,8 +5934,7 @@ msgstr "启发式"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"伤害 +40%。\n"
+msgstr "伤害 +40%。\n"
 "速度 +20%。"
 
 #. Weapon driver / overclock card - name (satellite_dish)
@@ -6007,8 +5945,7 @@ msgstr "微波天线"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"将卡顿转化为灼烧。大小 +30%。\n"
+msgstr "将卡顿转化为灼烧。大小 +30%。\n"
 "速度 +15%。"
 
 #. Weapon driver / overclock card - name (satellite_uplink)
@@ -6029,8 +5966,7 @@ msgstr "武器涂毒"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"将击退转化为感染。大小 +50%。\n"
+msgstr "将击退转化为感染。大小 +50%。\n"
 "数量 +1。"
 
 #. Weapon driver / overclock card - name (scimitar_dual)
@@ -6051,8 +5987,7 @@ msgstr "深度搜索"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"将击退转化为卡顿。数量 +2。\n"
+msgstr "将击退转化为卡顿。数量 +2。\n"
 "伤害 -20%。"
 
 #. Weapon driver / overclock card - name (search_indexed)
@@ -6063,8 +5998,7 @@ msgstr "查找下一个"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"速度 +30%。\n"
+msgstr "速度 +30%。\n"
 "刷新速度 +20%。"
 
 #. Weapon driver / overclock card - name (sniper_scope)
@@ -6075,8 +6009,7 @@ msgstr "大口径"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"伤害变为原来的 1.5x。\n"
+msgstr "伤害变为原来的 1.5x。\n"
 "特性 +30%。\n"
 "刷新 +25%。"
 
@@ -6088,8 +6021,7 @@ msgstr "一枪爆头"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"处决概率 +7%。\n"
+msgstr "处决概率 +7%。\n"
 "伤害 +25%。"
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
@@ -6100,8 +6032,7 @@ msgstr "作弊"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"伤害 +50%。数量 +1。\n"
+msgstr "伤害 +50%。数量 +1。\n"
 "刷新 -15%。"
 
 #. Scene label
@@ -6269,8 +6200,7 @@ msgstr "SHZip v2.03（评估版本）"
 msgid ""
 "Extracting file:\n"
 "temp_file_649743.zip from /.???"
-msgstr ""
-"正在解压：\n"
+msgstr "正在解压：\n"
 "temp_file_649743.zip 从 /.???"
 
 #. Scene label
@@ -6278,8 +6208,7 @@ msgstr ""
 msgid ""
 "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
 "Processing rate: 0.00 KB/Sec"
-msgstr ""
-"剩余时间：0分 00秒（0.00 KB，共 0.00 KB）\n"
+msgstr "剩余时间：0分 00秒（0.00 KB，共 0.00 KB）\n"
 "处理速度：0.00 KB 每秒"
 
 #. Scene label
@@ -6385,8 +6314,7 @@ msgid ""
 "\n"
 "If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much "
 "more to come!"
-msgstr ""
-"你做到了！我为你感到骄傲！希望你玩得开心。\n"
+msgstr "你做到了！我为你感到骄傲！希望你玩得开心。\n"
 "\n"
 "不过我非常抱歉，这个胜利画面如此乏味还没什么创意。您值得拥有更好的，而且在正式版中您一定会得到更好"
 "的。\n"
@@ -6430,8 +6358,7 @@ msgstr "正在检查插件兼容层..."
 msgid ""
 "Add +10 Max HP.\n"
 "Heal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"+10 点最大生命值。\n"
+msgstr "+10 点最大生命值。\n"
 "当打开安全文件夹时，回复 20% 的最大生命值。"
 
 #. Scene label
@@ -6475,8 +6402,7 @@ msgid ""
 "- wallpapers\n"
 "- weapon evos\n"
 "- and more"
-msgstr ""
-"即将到来：\n"
+msgstr "即将到来：\n"
 "——更多武器\n"
 "——更多敌人\n"
 "——头目\n"
@@ -6491,8 +6417,7 @@ msgid ""
 "Thank you so much for playing. It means the world to me.\n"
 "enjoy and have a great day <3\n"
 "shaun"
-msgstr ""
-"非常感谢你的游玩，\n"
+msgstr "非常感谢你的游玩，\n"
 "这对我意义重大。\n"
 "祝你享受游戏，度过\n"
 "美好的一天 <3\n"
@@ -6543,8 +6468,7 @@ msgstr "退出"
 msgid ""
 "Antivirus Survivors 2003 Professional\n"
 "Shaun Hammond Business Solutions Ltd"
-msgstr ""
-"杀软幸存者 2003 专业版\n"
+msgstr "杀软幸存者 2003 专业版\n"
 "Shaun Hammond Business Solutions Ltd"
 
 #. Scene label
@@ -6632,8 +6556,7 @@ msgstr "搜索刷新"
 msgid ""
 "Increases Refresh Rate for Search by 20%.\n"
 "But here's a second line also."
-msgstr ""
-"搜索刷新概率 +20%。\n"
+msgstr "搜索刷新概率 +20%。\n"
 "请输入文本"
 
 #. Scene label
