@@ -941,7 +941,7 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr ""
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
 msgstr ""
 
@@ -977,7 +977,7 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr ""
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
 msgstr ""
 
@@ -1545,7 +1545,7 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr ""
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
 msgstr ""
 
@@ -1565,7 +1565,7 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr ""
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
 msgstr ""
 
@@ -1600,7 +1600,7 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr ""
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr ""
 
@@ -1915,8 +1915,18 @@ msgid "SETTINGS.music_volume"
 msgstr ""
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr ""
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
+msgstr ""
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
 msgstr ""
 
 #. Settings menu
@@ -1980,8 +1990,18 @@ msgid "SETTINGS.music_volume_tip"
 msgstr ""
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr ""
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
+msgstr ""
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
 msgstr ""
 
 #. Settings menu
@@ -2556,6 +2576,46 @@ msgstr ""
 #. Start menu - Tasks and Stats button
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
+msgstr ""
+
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr ""
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr ""
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr ""
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr ""
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr ""
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr ""
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr ""
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
 msgstr ""
 
 #. Profile stats window - statistics tab
@@ -4424,7 +4484,7 @@ msgid "POLICY.open_relay.description"
 msgstr ""
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
 msgstr ""
 
@@ -5611,7 +5671,7 @@ msgid "DRIVER.fontart_bold.description"
 msgstr ""
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
 msgstr ""
 
@@ -5681,7 +5741,7 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr ""
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
 msgstr ""
 
@@ -5691,7 +5751,7 @@ msgid "DRIVER.modem_handshake.description"
 msgstr ""
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
 msgstr ""
 

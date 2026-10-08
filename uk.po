@@ -152,22 +152,22 @@ msgstr ""
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
 msgid "META.armor.description"
-msgstr "Додає +1 Armo(u)r за Ранг."
+msgstr "Додає +1 Armo(u)r за ранг."
 
 #. Meta upgrade menu - description (coin_gain)
 #. source: Multiply Coin Gain by an extra +1% per Rank.
 msgid "META.coin_gain.description"
-msgstr "Збільшує множник приросту монет на додатковий +1% за кожен ранг."
+msgstr "Помножує приріст монет на додатковий +1% за кожен ранг."
 
 #. Meta upgrade menu - description (crit_chance)
 #. source: Increases Crit Chance +1% per Rank.
 msgid "META.crit_chance.description"
-msgstr "Збільшує крит. шанс на +1% за Ранг."
+msgstr "Збільшує крит. шанс на +1% за ранг."
 
 #. Meta upgrade menu - description (crit_damage)
 #. source: Multiply Crit Damage by an extra +2% per Rank.
 msgid "META.crit_damage.description"
-msgstr "Збільшує множник Крит. шкоди на додаткові +2% за Ранг."
+msgstr "Помножує крит. шкоду на додаткові +2% за ранг."
 
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
@@ -177,12 +177,12 @@ msgstr "Швидкість вказівника"
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "Збільшує множник Швидкості вказівника на додатковий +1% за Ранг."
+msgstr "Помножує швидкість вказівника на додатковий +1% за Ранг."
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
 msgid "META.exp_gain.description"
-msgstr "Збільшує множник Отримання досвіду на додаткові +2% за Ранг."
+msgstr "Помножує отримання досвіду на додаткові +2% за ранг."
 
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 Health Regen per Rank.
@@ -192,17 +192,17 @@ msgstr "Додає +1 регенерації ОЗ за Ранг."
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
 msgid "META.luck.description"
-msgstr "Збільшує множник Удачі на додатковий +1% за Ранг."
+msgstr "Помножує удачу на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (magnetism)
 #. source: Multiply Magnetism by an extra +2% per Rank.
 msgid "META.magnetism.description"
-msgstr "Збільшує множник Магнетизму на додаткові +2% за Ранг."
+msgstr "Помножує магнетизм на додаткові +2% за ранг."
 
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 Max HP per Rank.
 msgid "META.max_health.description"
-msgstr "Додає +10 максимальних ОЗ за Ранг."
+msgstr "Додає +10 максимальних ОЗ за ранг."
 
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
@@ -217,7 +217,7 @@ msgstr "Додає +1 Втрату пакетів за Ранг."
 #. Meta upgrade menu - description (proc_speed)
 #. source: Multiply Processing Speed by an extra +1% per Rank.
 msgid "META.proc_speed.description"
-msgstr "Збільшує множник Швидкодії на додатковий +1% за Ранг."
+msgstr "Помножує швидкодію на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
@@ -227,27 +227,27 @@ msgstr "Збільшує шанс Копії зброї на 3% за ранг"
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
 msgid "META.weap_damage.description"
-msgstr "Збільшує множник Шкоди від зброї на додаткові +2% за Ранг."
+msgstr "Помножує шкоду від зброї на додаткові +2% за ранг."
 
 #. Meta upgrade menu - description (weap_refresh)
 #. source: Multiply Weapon Refresh by an extra +1% per Rank.
 msgid "META.weap_refresh.description"
-msgstr "Збільшує множник оновлення зброї на додатковий +1% за Ранг."
+msgstr "Помножує оновлення зброї на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (weap_repel)
 #. source: Multiply Weapon Repel by an extra +1% per Rank.
 msgid "META.weap_repel.description"
-msgstr "Збільшує множник Відкидання зброєю на додатковий +1% за Ранг."
+msgstr "Помножує відкидання зброєю на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
 msgid "META.weap_size.description"
-msgstr "Збільшує множник Розмір зброї на додатковий +1% за Ранг."
+msgstr "Помножує розмір зброї на додатковий +1% за ранг."
 
 #. Meta upgrade menu - description (weap_speed)
 #. source: Multiply Weapon Speed by an extra +1% per Rank.
 msgid "META.weap_speed.description"
-msgstr "Збільшує множник Швидкості зброї на додатковий +1% за Ранг."
+msgstr "Помножує швидкість зброї на додатковий +1% за ранг."
 
 #. Plugin - name (armor_boost)
 #. source: Armo(u)r Boost
@@ -301,7 +301,7 @@ msgstr "Година пік"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "Збільшує множник Шкоди від зброї на 10%, коли відкриваєш Big Wave."
+msgstr "Збільшує множник шкоди від зброї на 10%, коли відкриваєш Big Wave."
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -331,7 +331,7 @@ msgstr "Збільшення приросту монет"
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr "Помножує Приріст монет на 1.1х."
+msgstr "Помножує приріст монет на 1.1х."
 
 #. Plugin - name (coin_drop_boost)
 #. source: Shared Folders
@@ -491,7 +491,7 @@ msgstr "Збільшена удача"
 #. Plugin - description (luck_boost)
 #. source: Multiply Luck 1.1x.
 msgid "PLUGIN.luck_boost.description"
-msgstr "Помножує Удачу на 1.1х"
+msgstr "Помножує удачу на 1.1х"
 
 #. Plugin - name (luck_reroll)
 #. source: Lucky Break
@@ -594,8 +594,8 @@ msgstr ""
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
 msgstr ""
-"Помножує Шкоду від зброї на 1.25х.\n"
-"Зменшує Швидкість вказівника на -10%."
+"Помножує шкоду від зброї на 1.25х.\n"
+"Зменшує швидкість вказівника на -10%."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -647,7 +647,7 @@ msgstr "Більше досвіду"
 #. Plugin - description (xp_gain_boost)
 #. source: Multiply EXP Gain 1.1x.
 msgid "PLUGIN.xp_gain_boost.description"
-msgstr "Помножує Отримання досвіду на 1.1х."
+msgstr "Помножує отримання досвіду на 1.1х."
 
 #. Plugin - name (xp_gain_on_damage)
 #. source: Readme
@@ -1682,7 +1682,7 @@ msgstr "Пристрій виведення"
 #. Upgrade card - description (weapon_modem)
 #. source: Blasts concentric handshake rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr "Випускає з курсора концентричні кільця рукостискання."
+msgstr "Випускає з вказівника концентричні кільця з’єднання."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -2683,6 +2683,48 @@ msgstr "Профіль.xls - Antivirus Survivors"
 msgid "UI.start_menu_tasks_stats"
 msgstr "Завдання та статистика"
 
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Титри"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Розробка, візуал, музика і так далі."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Продюсер"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Аніматорка (Virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "QA спільноти"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Перекладачі спільноти"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Особлива подяка"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr ""
+"Величезне спасибі всім вам за допомогу в здійсненні цієї мрії. Я вас всіх "
+"люблю! -Shaun"
+
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
@@ -3607,7 +3649,7 @@ msgstr "Посібник"
 #. Tutorial next-page button
 #. source: Next
 msgid "UI.next"
-msgstr "Наступна"
+msgstr "Далі"
 
 #. Tutorial window title
 #. source: Quick Start Guide
@@ -4382,7 +4424,7 @@ msgstr "Перевірка стану Плюс"
 #. UI (script-driven)
 #. source: Invest Coin between battles and cash out later.
 msgid "UI.unlock_file_stock_trader_desc"
-msgstr "Вкладайте монети між раундами, щоб потім вивести на рахунок."
+msgstr "Вкладайте монети між раундами, щоб потім вивести їх на рахунок."
 
 #. UI (script-driven)
 #. source: Finance Manager
@@ -4439,12 +4481,12 @@ msgstr "Встановити 3 міфічних плаґіни"
 #. UI (script-driven)
 #. source: Spend 3 Keys for a legendary plugin install.
 msgid "UI.unlock_file_legendary_installer_desc"
-msgstr "Витратьте 3 ключі, щоб встановити легендарний плаґін."
+msgstr "Витратьте 3 ключі, щоб встановити міфічний плаґін."
 
 #. UI (script-driven)
 #. source: Legendary Installer
 msgid "UI.unlock_file_legendary_installer_reward"
-msgstr "Легендарний інсталятор"
+msgstr "Міфічний інсталятор"
 
 #. UI (script-driven)
 #. source: Defeat a Plus! enemy in 10 seconds
@@ -4663,7 +4705,7 @@ msgid "POLICY.open_relay.description"
 msgstr "Кожен бойовий файл має всередині спам."
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
 msgstr "Політика домену за замовчуванням"
 
@@ -5052,8 +5094,6 @@ msgstr "Двічі клацніть, щоб грати"
 
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
-#, fuzzy
-#| msgid "CLICKABLE.double_click_shop"
 msgid "CLICKABLE.double_click_shuffle"
 msgstr "Двічі клацніть, щоб пропустити трек"
 

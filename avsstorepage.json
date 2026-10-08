@@ -106,17 +106,17 @@
       "app[content][sysreqs][linux][min][graphics]": ""
     },
     "dutch": {
-      "app[content][about]": "",
-      "app[content][short_description]": "",
-      "app[content][sysreqs][mac][min][osversion]": "",
-      "app[content][sysreqs][mac][min][processor]": "",
-      "app[content][sysreqs][mac][min][graphics]": "",
-      "app[content][sysreqs][windows][min][osversion]": "",
-      "app[content][sysreqs][windows][min][processor]": "",
-      "app[content][sysreqs][windows][min][graphics]": "",
-      "app[content][sysreqs][linux][min][osversion]": "",
-      "app[content][sysreqs][linux][min][processor]": "",
-      "app[content][sysreqs][linux][min][graphics]": ""
+      "app[content][about]": "[p]Start op, log in en maak je klaar voor intense dubbelklikactie.[/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/doubleclickfull-optimize&quot;][/img]In Antivirus Survivors 2003 Professional dubbelklik je je een weg door mappen terwijl je voids ontwijkt, virussen bestrijdt, spampop-ups ontloopt en bosses verslaat. Speur naar XP en keys door de mappen te verkennen en bestanden te openen, en voltooi taken en policies voor bonussen. Bouw je build uit met upgrades en plugins, en ontgrendel nieuwe wapens en speelstijlen.[/p][p]Met intense roguelike-actie en een diepe liefde voor de besturingssystemen van begin jaren 2000 is dit een flinke dosis pure Y2K-nostalgie, geserveerd in runs van zo'n 30-40 minuten.[/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/survivefull-optimize&quot;][/img][/p][p][b]De volledige game bevat:[/b][/p][list][*][p][b]24 wapens[/b] - Pinball, Solitaire, Mijnen, Firewall en meer, geïnspireerd op het computertijdperk van de jaren 2000.[/p][/*][*][p][b]50 drivers[/b] - Verander met unieke upgrades hoe een wapen normaal werkt.[/p][/*][*][p][b]33 bestandstypen[/b] - Dubbelklik op je favoriete bestandstypen voor loot - LemWire, BigWave, Defrag en meer.[/p][/*][*][p][b]62 plugins[/b] - Open keygens en installeer plugins om je wapens en stats flink aan te passen.[/p][/*][*][p][b]18 meta-upgrades[/b] - Kies slim en bepaal zelf je pad door de metaprogressie.[/p][/*][*][p][b]5 moeilijkheidsgraden[/b] - Vijf protocolmappen met steeds grotere risico's en beloningen.[/p][/*][*][p][b]15 policies[/b] - Unieke challenges om de game op moeilijkere en interessantere manieren te beleven.[/p][/*][*][p][b]18 spelersstats [/b]- Maak unieke builds door schade, snelheid, geluk en meer te upgraden.[/p][/*][*][p][b]81 achtergronden en 8 thema's[/b] - Te ontgrendelen cosmetics om je bureaublad aan te passen.[/p][/*][*][p][b]6 bosses en minibosses[/b] - Supersterke vijanden en machtige bosses om te verslaan.[/p][/*][*][p][b]200+ taken [/b]- Voltooi extra taken om nieuwe bestanden, wapens, plugins en meer te ontgrendelen![/p][/*][/list][p][img src=&quot;{STEAM_APP_IMAGE}/extras/upgradefuull-optimize&quot;][/img][/p][p]Dubbelklikken, uitpakken, downloaden, upgraden, overleven.[/p]",
+      "app[content][short_description]": "De gezinscomputer is weer besmet en het is aan jou om golven virussen en adware-vijanden af te slaan met een arsenaal aan nostalgische Y2K-wapens. Antivirus Survivors 2003 Professional is een survivor-like auto-shooter vol knipogen naar de tijd dat computers nog echt leuk waren.",
+      "app[content][sysreqs][mac][min][osversion]": "macOS 12",
+      "app[content][sysreqs][mac][min][processor]": "Apple M1 of Intel 2.0 GHz",
+      "app[content][sysreqs][mac][min][graphics]": "512 MB VRAM",
+      "app[content][sysreqs][windows][min][osversion]": "Windows 10",
+      "app[content][sysreqs][windows][min][processor]": "2.0 GHz",
+      "app[content][sysreqs][windows][min][graphics]": "512 MB VRAM",
+      "app[content][sysreqs][linux][min][osversion]": "SteamOS of een moderne Linux-distro",
+      "app[content][sysreqs][linux][min][processor]": "2.0 GHz",
+      "app[content][sysreqs][linux][min][graphics]": "512 MB VRAM"
     },
     "finnish": {
       "app[content][about]": "",
@@ -171,17 +171,17 @@
       "app[content][sysreqs][linux][min][graphics]": ""
     },
     "japanese": {
-      "app[content][about]": "",
-      "app[content][short_description]": "",
-      "app[content][sysreqs][mac][min][osversion]": "",
-      "app[content][sysreqs][mac][min][processor]": "",
-      "app[content][sysreqs][mac][min][graphics]": "",
-      "app[content][sysreqs][windows][min][osversion]": "",
-      "app[content][sysreqs][windows][min][processor]": "",
-      "app[content][sysreqs][windows][min][graphics]": "",
-      "app[content][sysreqs][linux][min][osversion]": "",
-      "app[content][sysreqs][linux][min][processor]": "",
-      "app[content][sysreqs][linux][min][graphics]": ""
+      "app[content][about]": "[p]コンピューターのスイッチを入れ、ログインして怒涛のダブルクリックアクションに備えましょう。[/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/doubleclickfull-optimize&quot;][/img]Antivirus Survivors 2003 Professionalでは、ヴォイドを避け、ウイルスと戦い、スパムのポップアップをかわしつつボスを撃破し、フォルダを次々とダブルクリックして進みます。あなたは「カーソル」としてフォルダを探索し、ファイルを開いて経験値とキーを集めていきましょう。タスクやポリシーを達成すればボーナスも獲得できます。アップグレードやプラグインでビルドを強化し、新たな武器やプレイスタイルをアンロックしましょう。[/p][p]激しいローグライクアクションと、2000年代初頭のコンピューターOSへの深い愛が融合した本作では、1回約30～40分のランを通して【Y2K】ならではのノスタルジーを存分に味わえます。[/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/survivefull-optimize&quot;][/img][/p][p][b]ゲーム本編には以下のコンテンツが含まれています：[/b][/p][list][*][p][b]24種類のユニークな武器[/b] - ピンボール、ソリティア、マインスイーパー、ファイアウォールなど、2000年代のコンピューター文化から着想を得た武器がそろっています。[/p][/*][*][p][b]50種類のドライバー[/b] - 専用アップグレードによって、武器本来の性能や挙動を大きく変化させることができます。[/p][/*][*][p][b]33種類のファイルタイプ[/b] - お気に入りのファイル形式をダブルクリックすると報酬が獲得できます。LemWire、BigWave、デフラグなど、様々なファイルタイプが登場します。[/p][/*][*][p][b]62種類のプラグイン[/b] - Keygenで獲得した【キー】を使用してプラグインをインストールすれば、武器やプレイヤーのステータスを大幅に変更できます。[/p][/*][*][p][b]18種類のメタ・アップグレード[/b] - 慎重に選択し、メタプログレッションを通じて自分なりの成長ルートを構築しましょう。[/p][/*][*][p][b]5段階の難易度[/b] - リスクとリターンが段階的に増加する、5つのプロトコルフォルダが存在します。[/p][/*][*][p][b]15種類のポリシー[/b] - より難易度の高い、ひと味違った条件でプレイを楽しめるユニークなチャレンジが用意されています。[/p][/*][*][p][b]18種類のプレイヤーステータス[/b] - ダメージ、スピード、運などをアップグレードして自分だけのビルドを構築しましょう。[/p][/*][*][p][b]81種類の壁紙と8種類のテーマ[/b] - 装飾アイテムをアンロックし、デスクトップを自由にカスタマイズできます。[/p][/*][*][p][b]6体のボス＆中ボス[/b] - 大幅に強化された敵や、立ちはだかる強力なボスを撃破しましょう。[/p][/*][*][p][b]200以上のタスク[/b] - タスクを完了して、新しいファイル、武器、プラグインなどをアンロックしましょう！[/p][/*][/list][p][img src=&quot;{STEAM_APP_IMAGE}/extras/upgradefuull-optimize&quot;][/img][/p][p]ダブルクリック、解凍、ダウンロード、アップグレード。そして、生き残りましょう。[/p]",
+      "app[content][short_description]": "ご自宅のコンピューターがまたウイルスに感染したようです。ノスタルジックな【Y2K】風の武器を駆使して、迫りくるウイルスやアドウェアを撃退しましょう。Antivirus Survivors 2003 Professionalは、コンピューターに触れることが楽しかったあの頃へのオマージュが詰まった、サバイバーライクなオートシューターです。",
+      "app[content][sysreqs][mac][min][osversion]": "macOS 12",
+      "app[content][sysreqs][mac][min][processor]": "Apple M1 or 2.0 GHz Intel",
+      "app[content][sysreqs][mac][min][graphics]": "512 MB VRAM",
+      "app[content][sysreqs][windows][min][osversion]": "Windows 10",
+      "app[content][sysreqs][windows][min][processor]": "2.0 GHz",
+      "app[content][sysreqs][windows][min][graphics]": "512 MB VRAM",
+      "app[content][sysreqs][linux][min][osversion]": "SteamOS または最新のLinuxディストリビューション",
+      "app[content][sysreqs][linux][min][processor]": "2.0 GHz",
+      "app[content][sysreqs][linux][min][graphics]": "512 MB VRAM"
     },
     "koreana": {
       "app[content][about]": "",
@@ -327,17 +327,17 @@
       "app[content][sysreqs][linux][min][graphics]": ""
     },
     "thai": {
-      "app[content][about]": "",
-      "app[content][short_description]": "",
-      "app[content][sysreqs][mac][min][osversion]": "",
-      "app[content][sysreqs][mac][min][processor]": "",
-      "app[content][sysreqs][mac][min][graphics]": "",
-      "app[content][sysreqs][windows][min][osversion]": "",
-      "app[content][sysreqs][windows][min][processor]": "",
-      "app[content][sysreqs][windows][min][graphics]": "",
-      "app[content][sysreqs][linux][min][osversion]": "",
-      "app[content][sysreqs][linux][min][processor]": "",
-      "app[content][sysreqs][linux][min][graphics]": ""
+      "app[content][about]": "[p]เปิดเครื่อง เข้าสู่ระบบ และเตรียมพร้อมดับเบิลคลิกจนหยุดไม่อยู่[/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/doubleclickfull-optimize&quot;][/img]เกม Antivirus Survivors 2003 Professional ดับเบิลคลิกโฟลเดอร์พร้อมหลบเลี่ยงพื้นที่ดำมืด ต่อสู้กับเหล่าไวรัส หลบป็อปอัพโฆษณา เก็บรวบรวม XP และคีย์จากการเปิดโฟลเดอร์และไฟล์ พิชิตภารกิจและข้อกำหนดเพื่อรับโบนัสเพิ่มเติม เสริมแกร่งด้วยอัปเกรดและปลั๊กอิน และปลดล็อคอาวุธและสไตล์การเล่นใหม่ๆ[/p][p]เกมโร้คไลก์สุดตื่นเต้นในธีมระบบปฏิบัติการในยุคต้นปี2000ที่เป็นที่รักของผู้คนนี้จะพาคุณย้อนเวลาไปสู่ยุค Y2K และมอบความสนุกให้กับคุณด้วยเกมเพลย์ที่จะใช้เวลา 30 - 40 นาทีต่อรอบ[/p][p][img src=&quot;{STEAM_APP_IMAGE}/extras/survivefull-optimize&quot;][/img][/p][p][b]ตัวเกมเวอร์ชั่นเต็มจะประกอบไปด้วย:[/b][/p][list][*][p][b]อาวุธ 24 ชนิด[/b] - พินบอล โซลิแทร์ ไมน์ส ไฟร์วอลล์ และอาวุธอื่นๆที่ได้แรงบันดาลใจมาจากคอมพิวเตอร์ยุค 2000[/p][/*][*][p][b]ไดร์เวอร์ 50 อย่าง[/b] - พัฒนาอาวุธให้แข็งแกร่งขึ้นด้วยอัปเกรดพิเศษ[/p][/*][*][p][b]ไฟล์ 33 ชนิด[/b] - ดับเบิลคลิกไฟล์ที่คุณชื่นชอบและรับรางวัลอัปเกรดไปเลย - เลมไวร์ บิ๊กเวฟ ดีแฟร็ก และอื่นๆ[/p][/*][*][p][b]ปลั๊กอิน 62 อย่าง[/b] - เปิดโปรแกรมคีย์เจ็นและติดตั้งปลั๊กอินเพื่อเพิ่มค่าสถานะของอาวุธและเคอร์เซอร์แบบทวีคูณ[/p][/*][*][p][b]อัปเกรดเริ่มต้น 18 อย่าง[/b] - เลือกอัปเกรดให้ดีและสร้างความคืบหน้าที่หนือกว่ารอบทีผ่านมา[/p][/*][*][p][b]ระดับความยาก 5 ระดับ[/b] - โฟลเดอร์โปรโตคอล 5 ระดับที่มาพร้อมกับความเสี่ยงและรางวัลที่สูงขึ้นตามลำดับ[/p][/*][*][p][b]กฎเกณฑ์ 15 อย่าง[/b] - ความท้าทายสุดหินที่จะให้คุณได้ลองเล่นเกมในรูปแบบที่ยากขึ้นและน่าสนใจกว่าเดิม[/p][/*][*][p][b]สเตตัส 18 อย่าง[/b] - พัฒนาเคอร์เซอร์โดยการอัปเกรดดาเมจ ความเร็ว โชค และอื่นๆ[/p][/*][*][p][b]วอลล์เปเปอร์ 81 ภาพและธีม 8 แบบ[/b] - ปลดล็อคของตกแต่งเพื่อปรับแต่งเดสก์ท็อปของคุณ[/p][/*][*][p][b]บอส 6 ชนิดและมินิบอส[/b] - ต่อกรกับศัตรูสุดหินและบอสสุดแกร่งที่รับมือได้ยาก[/p][/*][*][p][b]ภารกิจ 200 กว่าอย่าง[/b] - สำเร็จภารกิจพิเศษและปลดล็อคไฟล์ใหม่ อาวุธใหม่ ปลั๊กอินใหม่ และอื่นๆอีกเพียบ![/p][/*][/list][p][img src=&quot;{STEAM_APP_IMAGE}/extras/upgradefuull-optimize&quot;][/img][/p][p]ดับเบิลคลิก อันซิป ดาวน์โหลด อัปเกรด และเอาชีวิตรอดจนจบเกมให้ได้[/p]",
+      "app[content][short_description]": "คอมพิวเตอร์ครอบครัวของคุณติดไวรัสอีกแล้ว สิ่งคุณต้องทำก็คือขับไล่ไวรัสและโปรแกรมโฆษณาพวกนั้นให้หมดด้วยคลังอาวุธย้อนยุคสไตล์ Y2K Antivirus Survivors 2003 Professional คือเกมแนวเซอร์ไวเวอร์ ออโต้ชู้ตเตอร์ ที่เต็มไปด้วยบรรยากาศครั้นเมื่อการใช้คอมพิวเตอร์ยังคงเป็นเรื่องสนุก",
+      "app[content][sysreqs][mac][min][osversion]": "macOS 12",
+      "app[content][sysreqs][mac][min][processor]": "Apple M1 หรือ 2.0 GHz Intel",
+      "app[content][sysreqs][mac][min][graphics]": "512 MB VRAM",
+      "app[content][sysreqs][windows][min][osversion]": "วินโดวส์ 10",
+      "app[content][sysreqs][windows][min][processor]": "2.0 GHz",
+      "app[content][sysreqs][windows][min][graphics]": "512 MB VRAM",
+      "app[content][sysreqs][linux][min][osversion]": "SteamOS หรือระบบปฏิบัติการที่สร้างจาก Linux",
+      "app[content][sysreqs][linux][min][processor]": "2.0 GHz",
+      "app[content][sysreqs][linux][min][graphics]": "512 MB VRAM"
     },
     "tchinese": {
       "app[content][about]": "",

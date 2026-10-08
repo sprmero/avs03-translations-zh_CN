@@ -6842,6 +6842,49 @@ msgstr "Okno"
 msgid "Antivirus Survivors 2003 Professional"
 msgstr ""
 
+#. Credits window
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Twórcy"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Programowanie, Grafika, Muzyka itp."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Produkcja"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Animacje (Virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "Testerzy QA"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Tłumaczenia"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Specjalne Podziękowania"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr ""
+"Bardzo dziękuję wszystkim że pomogliście mi urzeczywistnić ten sen. Kocham "
+"was wszystkich!\n"
+"-Shaun"
+
 #~ msgid "Wishlist"
 #~ msgstr "Lista Życzeń"
 

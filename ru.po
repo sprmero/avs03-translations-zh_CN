@@ -6787,6 +6787,48 @@ msgstr "Окно"
 msgid "Antivirus Survivors 2003 Professional"
 msgstr "Антивирус Выживатели 2003 Профессиональный"
 
+#. Credits window
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Создатели"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Разработка, арты, музыка, т.д."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Продюсер"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Анимации (Вирри)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "Помощь от сообщества"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Переводы от сообщества"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Особые благодарности"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr ""
+"Большое вам всем спасибо за помощь в достижении моей мечты. Люблю вас всех! "
+"-Shaun"
+
 #~ msgid "Wishlist"
 #~ msgstr "Добавить в желаемое"
 
@@ -7044,7 +7086,7 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "AVD сила"
 
 #~ msgid "UPGRADE.upgrade_avd_knockback.description"
-#~ msgstr "Увеличивает силу отдачи AVD на {percent}%."
+#~ msgstr "Увеличивает эффект отдачи AVD на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_avd_rate.name"
 #~ msgstr "AVD реген"
@@ -7077,16 +7119,16 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "Пузыри реген"
 
 #~ msgid "UPGRADE.upgrade_bubbles_rate.description"
-#~ msgstr "Увеличивает скорость регенерации пузырей на {percent}%."
+#~ msgstr "Увеличивает скорость регенерации Пузырей на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_bubbles_size_multi.name"
 #~ msgstr "Пузыри размер"
 
 #~ msgid "UPGRADE.upgrade_bubbles_size_multi.description"
-#~ msgstr "Увеличивает размер пузырей на {percent}%."
+#~ msgstr "Увеличивает размер Пузырей на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_cdrive_amount.name"
-#~ msgstr "Кол-во диска C:"
+#~ msgstr "Кол-во Диска C:"
 
 #~ msgid "UPGRADE.upgrade_cdrive_amount.description"
 #~ msgstr "Добавляет +{percent}% шанс появления доп. дисков."
@@ -7095,19 +7137,19 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "Диск C: урон"
 
 #~ msgid "UPGRADE.upgrade_cdrive_damage.description"
-#~ msgstr "Увеличивает урон диска C: на {percent}%."
+#~ msgstr "Увеличивает урон Диска C: на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_cdrive_knockback.name"
 #~ msgstr "Диск C: сила"
 
 #~ msgid "UPGRADE.upgrade_cdrive_knockback.description"
-#~ msgstr "Увеличивает силу отдачи диска C: на {percent}%."
+#~ msgstr "Увеличивает эффект отдачи Диска C: на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_cdrive_rate.name"
 #~ msgstr "Диск C: реген"
 
 #~ msgid "UPGRADE.upgrade_cdrive_rate.description"
-#~ msgstr "Увеличивает скорость регенерации диска C: на {percent}%."
+#~ msgstr "Увеличивает скорость регенерации Диска C: на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_cdrive_size_multi.name"
 #~ msgstr "Диск C: размер"
@@ -7122,13 +7164,13 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "Ножницы урон"
 
 #~ msgid "UPGRADE.upgrade_cut_damage.description"
-#~ msgstr "Увеличивает урон ножниц на {percent}%."
+#~ msgstr "Увеличивает урон Ножницы на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_cut_knockback.name"
 #~ msgstr "Ножницы сила"
 
 #~ msgid "UPGRADE.upgrade_cut_knockback.description"
-#~ msgstr "Увеличивает силу отдачи ножиниц на {percent}%."
+#~ msgstr "Увеличивает эффект отдачи Вырезать на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_cut_rate.name"
 #~ msgstr "Ножницы реген"
@@ -7137,13 +7179,13 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "Ножницы размер"
 
 #~ msgid "UPGRADE.upgrade_cut_size_multi.description"
-#~ msgstr "Увеличивает размер ножниц на {percent}%."
+#~ msgstr "Увеличивает размер Ножницы на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_cut_speed.name"
 #~ msgstr "Ножницы скорость"
 
 #~ msgid "UPGRADE.upgrade_cut_speed.description"
-#~ msgstr "Увеличивает скорость атаки ножниц на {percent}%."
+#~ msgstr "Увеличивает скорость атаки Ножницы на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_firewall_amount.name"
 #~ msgstr "Брандм. кол-во"
@@ -7155,19 +7197,19 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "Брандмауэр сила"
 
 #~ msgid "UPGRADE.upgrade_firewall_knockback.description"
-#~ msgstr "Увеличивает силу отдачи брандмауэра на {percent}%."
+#~ msgstr "Увеличивает эффект отдачи Брандмауэра на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_firewall_rate.name"
 #~ msgstr "Брандмауэр реген"
 
 #~ msgid "UPGRADE.upgrade_firewall_size_multi.description"
-#~ msgstr "Увеличивает размер брандмауэра на {percent}%."
+#~ msgstr "Увеличивает размер Брандмауэра на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_firewall_speed.name"
 #~ msgstr "Брандмауэр скорость"
 
 #~ msgid "UPGRADE.upgrade_firewall_speed.description"
-#~ msgstr "Увеличивает скорость атаки брандмауэра на {percent}%."
+#~ msgstr "Увеличивает скорость атаки Брандмауэра на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_fontart_amount.name"
 #~ msgstr "FontArt кол-во"
@@ -7209,7 +7251,7 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "HaD: DoCK сила"
 
 #~ msgid "UPGRADE.upgrade_hitmarkers_knockback.description"
-#~ msgstr "Увеличивает силу отдачи HaD:DoCK на {percent}%."
+#~ msgstr "Увеличивает эффект отдачи HaD:DoCK на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_hitmarkers_size_multi.name"
 #~ msgstr "HaD: DoCK размер"
@@ -7269,52 +7311,52 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "Пинболл урон"
 
 #~ msgid "UPGRADE.upgrade_pinball_damage.description"
-#~ msgstr "Увеличивает урон пинболла на {percent}%."
+#~ msgstr "Увеличивает урон Пинболла на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_pinball_knockback.name"
 #~ msgstr "Пинболл сила"
 
 #~ msgid "UPGRADE.upgrade_pinball_knockback.description"
-#~ msgstr "Увеличивает эффект отдачи пинболла на {percent}%."
+#~ msgstr "Увеличивает эффект отдачи Пинболла на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_pinball_size_multi.name"
 #~ msgstr "Пинболл размер"
 
 #~ msgid "UPGRADE.upgrade_pinball_size_multi.description"
-#~ msgstr "Увеличивает размер пинболла на {percent}%."
+#~ msgstr "Увеличивает размер Пинболла на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_pinball_speed.name"
 #~ msgstr "Пинболл скорость"
 
 #~ msgid "UPGRADE.upgrade_pinball_speed.description"
-#~ msgstr "Увеличивает скорость атаки пинболла на {percent}%."
+#~ msgstr "Увеличивает скорость атаки Пинболла на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_quarantine_amount.name"
 #~ msgstr "Карантин кол-во"
 
 #~ msgid "UPGRADE.upgrade_quarantine_amount.description"
-#~ msgstr "Добавляет +{percent}% шанс появления доп. каратина."
+#~ msgstr "Добавляет +{percent}% шанс появления доп. Сканирования."
 
 #~ msgid "UPGRADE.upgrade_quarantine_damage.name"
 #~ msgstr "Карантин урон"
 
 #~ msgid "UPGRADE.upgrade_quarantine_damage.description"
-#~ msgstr "Увеличивает урон карантина на {percent}%."
+#~ msgstr "Увеличивает урон Карантина на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_quarantine_knockback.name"
 #~ msgstr "Карантин сила"
 
 #~ msgid "UPGRADE.upgrade_quarantine_knockback.description"
-#~ msgstr "Увеличивает эффект отдачи карантина на {percent}%."
+#~ msgstr "Увеличивает эффект отдачи Карантина на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_quarantine_size_multi.description"
-#~ msgstr "Увеличивает размер карантина на {percent}%."
+#~ msgstr "Увеличивает размер Карантина на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_quarantine_speed.name"
 #~ msgstr "Карантин скорость"
 
 #~ msgid "UPGRADE.upgrade_quarantine_speed.description"
-#~ msgstr "Увеличивает скорость атаки карантина на {percent}%."
+#~ msgstr "Увеличивает скорость атаки Карантина на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_search_amount.name"
 #~ msgstr "Поиск кол-во"
@@ -7326,25 +7368,25 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "Поиск урон"
 
 #~ msgid "UPGRADE.upgrade_search_damage.description"
-#~ msgstr "Увеличивает урон поиска на {percent}%."
+#~ msgstr "Увеличивает урон Поиска на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_search_knockback.name"
 #~ msgstr "Поиск сила"
 
 #~ msgid "UPGRADE.upgrade_search_knockback.description"
-#~ msgstr "Увеличивает эффект отдачи поиска на {percent}%."
+#~ msgstr "Увеличивает эффект отдачи Поиска на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_search_rate.name"
 #~ msgstr "Поиск реген"
 
 #~ msgid "UPGRADE.upgrade_search_rate.description"
-#~ msgstr "Увеличивает скорость перезарядки поиска на {percent}%."
+#~ msgstr "Увеличивает скорость регенерации Поиска на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_search_size_multi.name"
 #~ msgstr "Поиск размер"
 
 #~ msgid "UPGRADE.upgrade_search_size_multi.description"
-#~ msgstr "Увеличивает размер поиска на {percent}%."
+#~ msgstr "Увеличивает размер Поиска на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_solitaire_amount.name"
 #~ msgstr "Пасьянс кол-во"
@@ -7356,22 +7398,22 @@ msgstr "Антивирус Выживатели 2003 Профессиональ�
 #~ msgstr "Пасьянс урон"
 
 #~ msgid "UPGRADE.upgrade_solitaire_damage.description"
-#~ msgstr "Увеличивает урон пасьянсе на {percent}%."
+#~ msgstr "Увеличивает урон Пасьянса на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_solitaire_knockback.name"
 #~ msgstr "Пасьянс сила"
 
 #~ msgid "UPGRADE.upgrade_solitaire_knockback.description"
-#~ msgstr "Увеличивает эффект инфекции пасьянса на {percent}%."
+#~ msgstr "Увеличивает эффект инфекции Пасьянса на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_solitaire_size_multi.name"
 #~ msgstr "Пасьянс размер"
 
 #~ msgid "UPGRADE.upgrade_solitaire_size_multi.description"
-#~ msgstr "Увеличивает размер пасьянса на {percent}%."
+#~ msgstr "Увеличивает размер Пасьянса на {percent}%."
 
 #~ msgid "UPGRADE.upgrade_solitaire_speed.name"
 #~ msgstr "Пасьянс скорость"
 
 #~ msgid "UPGRADE.upgrade_solitaire_speed.description"
-#~ msgstr "Увеличивает скорость атаки пасьянса на {percent}%."
+#~ msgstr "Увеличивает скорость атаки Пасьянса на {percent}%."

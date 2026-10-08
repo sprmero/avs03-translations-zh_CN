@@ -942,9 +942,9 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Packet Loss"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
-msgstr "Chance to dogde all incoming Damage. (Exponential)"
+msgstr "Chance to dodge all incoming Damage. (Exponential)"
 
 #. Stat display - name (upgrade_player_exp_gain)
 #. source: EXP Gain
@@ -978,9 +978,9 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Luck"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
-msgstr "Increases odds for better rolls, resulting in higher rarities amoung other benefits."
+msgstr "Increases odds for better rolls, resulting in higher rarities among other benefits."
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1546,9 +1546,9 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Very Large Cone"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "Orange traffic wedges stuck to you. They cook what they point at with Heat."
+msgstr "Orange cones stuck to you. They cook what they point at with Heat."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1566,9 +1566,9 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Output Device"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr "Blasts concentric handshake rings outward from the cursor."
+msgstr "Blasts sound rings outward from the cursor."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -1601,9 +1601,9 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "tab"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
-msgstr "trap"
+msgstr "tab"
 
 #. Weapon metadata
 #. source: dish
@@ -1916,9 +1916,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Music Volume"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "SFX Volume"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Keygen Volume"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr "Main Menu Computer Sound"
 
 #. Settings menu
 #. source: Animation Speed
@@ -1981,9 +1991,19 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Volume for the soundtrack."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "Volume for sound effects."
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Volume for Keygen windows that play their own track."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr "Play the computer humming sound on the main menu."
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2558,6 +2578,46 @@ msgstr "Profile.xls - Antivirus Survivors"
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
 msgstr "Tasks and Stats"
+
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Credits"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Development, Art, Music etc."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Producer"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Animator (Virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "Community QA"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Community Translators"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Special Thanks"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr "Thank you all so much for helping me achieve this dream. I love you all! -Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
@@ -4425,9 +4485,9 @@ msgid "POLICY.open_relay.description"
 msgstr "Every battle file includes spam."
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
-msgstr "Default Domain Policy"
+msgstr "Natasha's Wrath"
 
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
@@ -5612,9 +5672,9 @@ msgid "DRIVER.fontart_bold.description"
 msgstr "Increase Size +60%. Increase Power +60%.\nReduce Amount -25%."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr "WordArt"
+msgstr "Outline"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -5682,9 +5742,9 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Mines stay until triggered."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Dial-up Congestion"
+msgstr "Feedback"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -5692,9 +5752,9 @@ msgid "DRIVER.modem_handshake.description"
 msgstr "Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Broadband"
+msgstr "Gain"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.

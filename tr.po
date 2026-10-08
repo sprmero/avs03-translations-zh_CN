@@ -14,7 +14,7 @@ msgstr "Tuğla"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr "Azami Cana +40 ekle.\n+12 Koruma ekle.\nİmleç Hızını 0.8 katına indir.\nSilah Hasarını 0.85 katına indir.\nHasar aldığında Silah Hasarını 1.1 katına çıkar (8sn boyunca, 3 defaya kadar birikebilir)"
+msgstr "Azami Cana +40 ekle.\n+12 Koruma ekle.\nİmleç Hızını 0.8x katına indir.\nSilah Hasarını 0.85x katına indir.\nHasar aldığında Silah Hasarını 1.1x katına çıkar (8sn boyunca, 3 defaya kadar birikebilir)"
 
 #. Class select - name (default)
 #. source: Default
@@ -34,7 +34,7 @@ msgstr "Tanımsız"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr "Azami Canı -25 azalt.\n+8 Paket Kaybı ekle.\nŞansı 1.5 katına çıkar.\nSilah Hasarını 0.9 katına indir."
+msgstr "Azami Canı -25 azalt.\n+8 Paket Kaybı ekle.\nŞansı 1.5x katına çıkar.\nSilah Hasarını 0.9x katına indir."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -44,7 +44,7 @@ msgstr "Vektör"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr "İmleç Hızını 1.25 katına çıkar.\n+15 Paket Kaybı ekle.\nAzami Canı -25 azalt.\nSilah Hasarını 0.9 katına indir.\nPaket Kaybı olduğunda İmleç Hızını 1.25 ve Yenileme Hızını 1.2 katına çıkar. (4sn boyunca)"
+msgstr "İmleç Hızını 1.25x katına çıkar.\n+15 Paket Kaybı ekle.\nAzami Canı -25 azalt.\nSilah Hasarını 0.9x katına indir.\nPaket Kaybı olduğunda İmleç Hızını 1.25x ve Yenileme Hızını 1.2x katına çıkar. (4sn boyunca)"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -54,7 +54,7 @@ msgstr "Kesme Noktası"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr "Kritik Şansını +%12 artır.\nKritik Hasarını 1.25 katına çıkar.\nAzami Canı -15 azalt.\nİmleç Hızını 0.9 katına indir.\nSilah Hasarını 0.92 katına indir."
+msgstr "Kritik Şansını %+12 artır.\nKritik Hasarını 1.25x katına çıkar.\nAzami Canı -15 azalt.\nİmleç Hızını 0.9x katına indir.\nSilah Hasarını 0.92x katına indir."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -64,7 +64,7 @@ msgstr "İş Parçacığı"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr "İşlem Hızını 1.3 katına çıkar.\nYenileme Hızını 1.12 katına çıkar.\nTP Kazancını 1.08 katına çıkar.\nSilah Hasarını 0.85 katına indir."
+msgstr "İşlem Hızını 1.3x katına çıkar.\nYenileme Hızını 1.12x katına çıkar.\nTP Kazancını 1.08x katına çıkar.\nSilah Hasarını 0.85x katına indir."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -74,7 +74,7 @@ msgstr "Yönetici"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr "+1 Anahtarla başla.\nJeton Kazancını 1.3 katına çıkar.\nToplama Mesafesini 1.3 katına çıkar.\nDükkanda +%10 indirim uygula.\nAzami Canı 0.9 katına indir.\nSilah Hasarını 0.85 katına indir."
+msgstr "+1 Anahtarla başla.\nJeton Kazancını 1.3x katına çıkar.\nToplama Mesafesini 1.3x katına çıkar.\nDükkanda %+10 indirim uygula.\nAzami Canı 0.9x katına indir.\nSilah Hasarını 0.85x katına indir."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -114,17 +114,17 @@ msgstr "Kademe başına +1 Koruma ekler."
 #. Meta upgrade menu - description (coin_gain)
 #. source: Multiply Coin Gain by an extra +1% per Rank.
 msgid "META.coin_gain.description"
-msgstr "Jeton Kazancını kademe başına fazladan +%1 artırır."
+msgstr "Jeton Kazancını kademe başına fazladan %+1 artırır."
 
 #. Meta upgrade menu - description (crit_chance)
 #. source: Increases Crit Chance +1% per Rank.
 msgid "META.crit_chance.description"
-msgstr "Kritik Şansını kademe başı +%1 yükseltir."
+msgstr "Kritik Şansını kademe başı %+1 yükseltir."
 
 #. Meta upgrade menu - description (crit_damage)
 #. source: Multiply Crit Damage by an extra +2% per Rank.
 msgid "META.crit_damage.description"
-msgstr "Kritik Hasarı kademe başına fazladan +%2 artır."
+msgstr "Kritik Hasarı kademe başına fazladan %+2 artır."
 
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
@@ -134,12 +134,12 @@ msgstr "İmleç Hızı"
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "İmleç Hızını kademe başına fazladan +%1 artır."
+msgstr "İmleç Hızını kademe başına fazladan %+1 artır."
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
 msgid "META.exp_gain.description"
-msgstr "TP Kazancını kademe başına fazladan +%2 artır."
+msgstr "TP Kazancını kademe başına fazladan %+2 artır."
 
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 Health Regen per Rank.
@@ -149,12 +149,12 @@ msgstr "Kademe başına +1 puan Can Yenileme ekler."
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
 msgid "META.luck.description"
-msgstr "Şansı kademe başına fazladan +%1 artır."
+msgstr "Şansı kademe başına fazladan %+1 artır."
 
 #. Meta upgrade menu - description (magnetism)
 #. source: Multiply Magnetism by an extra +2% per Rank.
 msgid "META.magnetism.description"
-msgstr "Çekim Gücünü kademe başına fazladan +%2 artır."
+msgstr "Çekim Gücünü kademe başına fazladan %+2 artır."
 
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 Max HP per Rank.
@@ -174,37 +174,37 @@ msgstr "Kademe başına +1 Paket Kaybı ekler."
 #. Meta upgrade menu - description (proc_speed)
 #. source: Multiply Processing Speed by an extra +1% per Rank.
 msgid "META.proc_speed.description"
-msgstr "İşlem Hızını kademe başına fazladan +%1 artır."
+msgstr "İşlem Hızını kademe başına fazladan %+1 artır."
 
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr "Silah Miktarı şansını kademe başına +%3 yükseltir."
+msgstr "Silah Miktarı şansını kademe başına %+3 yükseltir."
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
 msgid "META.weap_damage.description"
-msgstr "Silah Hasarını kademe başına fazladan +%2 artır."
+msgstr "Silah Hasarını kademe başına fazladan %+2 artır."
 
 #. Meta upgrade menu - description (weap_refresh)
 #. source: Multiply Weapon Refresh by an extra +1% per Rank.
 msgid "META.weap_refresh.description"
-msgstr "Silah Yenilemesini kademe başına fazladan +%1 artır."
+msgstr "Silah Yenilemesini kademe başına fazladan %+1 artır."
 
 #. Meta upgrade menu - description (weap_repel)
 #. source: Multiply Weapon Repel by an extra +1% per Rank.
 msgid "META.weap_repel.description"
-msgstr "Silah Geri Püskürtmesini kademe başına fazladan +%1 artır."
+msgstr "Silah Geri Püskürtmesini kademe başına fazladan %+1 artır."
 
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
 msgid "META.weap_size.description"
-msgstr "Silah Boyutunu kademe başına fazladan +%1 artır."
+msgstr "Silah Boyutunu kademe başına fazladan %+1 artır."
 
 #. Meta upgrade menu - description (weap_speed)
 #. source: Multiply Weapon Speed by an extra +1% per Rank.
 msgid "META.weap_speed.description"
-msgstr "Silah Hızını kademe başına fazladan +%1 artır."
+msgstr "Silah Hızını kademe başına fazladan %+1 artır."
 
 #. Plugin - name (armor_boost)
 #. source: Armo(u)r Boost
@@ -254,7 +254,7 @@ msgstr "Pik Saatler"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "BigWave açıldığında Silah Hasarı Çarpanını +%10 artır."
+msgstr "BigWave açıldığında Silah Hasarı Çarpanını %+10 artır."
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -284,7 +284,7 @@ msgstr "Jeton Kazancı Güçlendirmesi"
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr "Jeton Kazancını 1.1 katına çıkar."
+msgstr "Jeton Kazancını 1.1x katına çıkar."
 
 #. Plugin - name (coin_drop_boost)
 #. source: Shared Folders
@@ -294,7 +294,7 @@ msgstr "Paylaşılan Klasörler"
 #. Plugin - description (coin_drop_boost)
 #. source: Increase enemy Coin Drop Chance +20%.
 msgid "PLUGIN.coin_drop_boost.description"
-msgstr "Düşmandan Jeton Düşme şansını +%20 yükselt."
+msgstr "Düşmandan Jeton Düşme şansını %+20 yükselt."
 
 #. Plugin - name (crit_chance_boost)
 #. source: Crit Chance Boost
@@ -304,7 +304,7 @@ msgstr "Kritik Şansı Güçlendirmesi"
 #. Plugin - description (crit_chance_boost)
 #. source: Multiply Crit Chance 1.1x.
 msgid "PLUGIN.crit_chance_boost.description"
-msgstr "Kritik Şansını 1.1 katına çıkar."
+msgstr "Kritik Şansını 1.1x katına çıkar."
 
 #. Plugin - name (cursor_speed_boost)
 #. source: Cursor Speed Boost
@@ -314,7 +314,7 @@ msgstr "İmleç Hızı Güçlendirmesi"
 #. Plugin - description (cursor_speed_boost)
 #. source: Multiply Cursor Speed 1.1x
 msgid "PLUGIN.cursor_speed_boost.description"
-msgstr "İmleç Hızını 1.1 katına çıkar."
+msgstr "İmleç Hızını 1.1x katına çıkar."
 
 #. Plugin - name (cursor_speed_damage)
 #. source: Critical Battery
@@ -324,7 +324,7 @@ msgstr "Kritik Pil Seviyesi"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr "İmleç Hızını +%10 artır.\nHasar alırken İmleç Hızını +%30 artır (10sn boyunca)."
+msgstr "İmleç Hızını %+10 artır.\nHasar alırken İmleç Hızını %+30 artır (10sn boyunca)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -334,7 +334,7 @@ msgstr "Silah Hasarı Güçlendirmesi"
 #. Plugin - description (damage_boost)
 #. source: Multiply Weapon Damage 1.1x.
 msgid "PLUGIN.damage_boost.description"
-msgstr "Silah Hasarını 1.1 katına çıkar."
+msgstr "Silah Hasarını 1.1x katına çıkar."
 
 #. Plugin - name (damage_level_scaling)
 #. source: Career Path
@@ -344,7 +344,7 @@ msgstr "Kariyer Yolu"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr "Silah Hasarını oyuncu seviyesi başına +%3 artır.\nAzami Canı oyuncu seviyesi başına -1 azalt."
+msgstr "Silah Hasarını oyuncu seviyesi başına %+3 artır.\nAzami Canı oyuncu seviyesi başına -1 azalt."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -354,7 +354,7 @@ msgstr "Kırmızı Çizgi"
 #. Plugin - description (damage_missing_hp)
 #. source: Increase Weapon Damage +1% per 1% missing HP.
 msgid "PLUGIN.damage_missing_hp.description"
-msgstr "Her %1 eksik Can başına Silah Hasarını +%1 artır."
+msgstr "Her %1 eksik Can başına Silah Hasarını %+1 artır."
 
 #. Plugin - name (damage_speed_crit)
 #. source: Performance Options
@@ -364,7 +364,7 @@ msgstr "Performans Ayarları"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr "Silah Hasarını +%10 artır.\nYenileme Hızını +%10 artır.\nKritik Şansını +%5 artır.\nKritik Hasarını +%15 artır."
+msgstr "Silah Hasarını %+10 artır.\nYenileme Hızını %+10 artır.\nKritik Şansını %+5 artır.\nKritik Hasarını %+15 artır."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -384,7 +384,7 @@ msgstr "Çift Çekirdek"
 #. Plugin - description (dual_core)
 #. source: Multiply Processing Speed 2.0x.
 msgid "PLUGIN.dual_core.description"
-msgstr "İşlem Hızını 2.0 katına çıkar."
+msgstr "İşlem Hızını 2.0x katına çıkar."
 
 #. Plugin - name (heal_on_crit)
 #. source: Retry
@@ -434,7 +434,7 @@ msgstr "Şans Güçlendirmesi"
 #. Plugin - description (luck_boost)
 #. source: Multiply Luck 1.1x.
 msgid "PLUGIN.luck_boost.description"
-msgstr "Şansı 1.1 katına çıkar."
+msgstr "Şansı 1.1x katına çıkar."
 
 #. Plugin - name (luck_reroll)
 #. source: Lucky Break
@@ -444,7 +444,7 @@ msgstr "Şanslı Fırsat"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr "Şansı +%12 artır.\nHer Değiştir yaptığında Şansı +%25 artır (10sn boyunca)."
+msgstr "Şansı %+12 artır.\nHer Değiştir yaptığında Şansı %+25 artır (10sn boyunca)."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -454,7 +454,7 @@ msgstr "Sıkıştırılmış Klasörler"
 #. Plugin - description (luck_zip_boost)
 #. source: Increase Luck +3% when successfully opening a Zip File.
 msgid "PLUGIN.luck_zip_boost.description"
-msgstr "Her başarılı arşiv dosyası açışında Şansı +%3 artır."
+msgstr "Her başarılı arşiv dosyası açışında Şansı %+3 artır."
 
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
@@ -464,7 +464,7 @@ msgstr "Yaralandığında Şanslı"
 #. Plugin - description (lucky_when_hurt)
 #. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
 msgid "PLUGIN.lucky_when_hurt.description"
-msgstr "Hasar aldığında Şansı 2.0 katına çıkar (6sn boyunca)."
+msgstr "Hasar aldığında Şansı 2.0x katına çıkar (6sn boyunca)."
 
 #. Plugin - name (magnetism_boost)
 #. source: Magnetism Boost
@@ -474,7 +474,7 @@ msgstr "Çekim Gücü Güçlendirmesi"
 #. Plugin - description (magnetism_boost)
 #. source: Multiply Magnetism 1.1x.
 msgid "PLUGIN.magnetism_boost.description"
-msgstr "Çekim Gücünü 1.1 katına çıkar."
+msgstr "Çekim Gücünü 1.1x katına çıkar."
 
 #. Plugin - name (packet_loss_boost)
 #. source: Packet Loss Boost
@@ -494,7 +494,7 @@ msgstr "İşlem Hızı Güçlendirmesi"
 #. Plugin - description (processing_speed_boost)
 #. source: Multiply Processing Speed 1.1x.
 msgid "PLUGIN.processing_speed_boost.description"
-msgstr "İşlem Hızını 1.1 katına çıkar."
+msgstr "İşlem Hızını 1.1x katına çıkar."
 
 #. Plugin - name (regen_boost)
 #. source: Health Regen Boost
@@ -514,7 +514,7 @@ msgstr "Kupon Kodu"
 #. Plugin - description (shop_discount_10)
 #. source: Discount Shop Items +10%.
 msgid "PLUGIN.shop_discount_10.description"
-msgstr "Dükkânda +%10 indirim uygula."
+msgstr "Dükkânda %+10 indirim uygula."
 
 #. Plugin - name (shop_discount_25)
 #. source: Volume License
@@ -524,7 +524,7 @@ msgstr "Toplu Lisans"
 #. Plugin - description (shop_discount_25)
 #. source: Discount Shop Items +25%.
 msgid "PLUGIN.shop_discount_25.description"
-msgstr "Dükkânda +%25 indirim uygula."
+msgstr "Dükkânda %+25 indirim uygula."
 
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
@@ -534,7 +534,7 @@ msgstr ""
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr "Silah Hasarını 1.25 katına çıkar.\nİmleç Hızını -%10 azalt."
+msgstr "Silah Hasarını 1.25x katına çıkar.\nİmleç Hızını %-10 azalt."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -554,7 +554,7 @@ msgstr "Silah Hızı Güçlendirmesi"
 #. Plugin - description (weapon_speed_boost)
 #. source: Multiply Weapon Speed 1.1x.
 msgid "PLUGIN.weapon_speed_boost.description"
-msgstr "Silah Hızını 1.1 katına çıkar."
+msgstr "Silah Hızını 1.1x katına çıkar."
 
 #. Plugin - name (xp_drop_boost)
 #. source: Error Report
@@ -564,7 +564,7 @@ msgstr "Hata Raporu"
 #. Plugin - description (xp_drop_boost)
 #. source: Increase enemy EXP Drop Chance +20%.
 msgid "PLUGIN.xp_drop_boost.description"
-msgstr "Düşman TP düşme şansını +%20 artır."
+msgstr "Düşman TP düşme şansını %+20 artır."
 
 #. Plugin - name (xp_file_open)
 #. source: Knowledge Base
@@ -584,7 +584,7 @@ msgstr "TP Kazancı Güçlendirmesi"
 #. Plugin - description (xp_gain_boost)
 #. source: Multiply EXP Gain 1.1x.
 msgid "PLUGIN.xp_gain_boost.description"
-msgstr "TP Kazancını 1.1 katına çıkar."
+msgstr "TP Kazancını 1.1x katına çıkar."
 
 #. Plugin - name (xp_gain_on_damage)
 #. source: Readme
@@ -594,7 +594,7 @@ msgstr "Benioku"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr "TP Kazancını +%10 artır.\nHasar alırken +4 TP kazan."
+msgstr "TP Kazancını %+10 artır.\nHasar alırken +4 TP kazan."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -644,7 +644,7 @@ msgstr "Hareketsiz Görüntü"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "Hareketsiz kalınan saniye başına Silah Hasarını +%5 artır, yük başına +%15'e kadar."
+msgstr "Hareketsiz kalınan saniye başına Silah Hasarını %+5 artır, yük başına %+15'e kadar."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -654,7 +654,7 @@ msgstr "SHZip Lisansı"
 #. Plugin - description (shzip_license)
 #. source: Increase Zip Processing Speed +50%.
 msgid "PLUGIN.shzip_license.description"
-msgstr "Arşiv işlem hızını +%50 artır."
+msgstr "Arşiv işlem hızını %+50 artır."
 
 #. Plugin - name (refresh_overclock)
 #. source: Refresh Overclock
@@ -664,7 +664,7 @@ msgstr "Yenileme Hız Aşırtma"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr "Yenileme Hızını +%50 artır.\nİmleç Hızını -%15 azalt."
+msgstr "Yenileme Hızını %+50 artır.\nİmleç Hızını %-15 azalt."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -674,7 +674,7 @@ msgstr "Cüzdan Hasarı"
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
 msgid "PLUGIN.wallet_damage.description"
-msgstr "Silah Hasarını cüzdandaki her 10 Jeton başına +%1 artır."
+msgstr "Silah Hasarını cüzdandaki her 10 Jeton başına %+1 artır."
 
 #. Plugin - name (first_strike)
 #. source: First Strike
@@ -684,7 +684,7 @@ msgstr "İlk Vuruş"
 #. Plugin - description (first_strike)
 #. source: Increase Damage +25% against enemies above 90% HP.
 msgid "PLUGIN.first_strike.description"
-msgstr "Canı %90'ın üzerinde olan düşmanlara karşı hasarı +%25 artır."
+msgstr "Canı %90'ın üzerinde olan düşmanlara karşı hasarı %+25 artır."
 
 #. Plugin - name (crit_blast)
 #. source: Crit Blast
@@ -724,7 +724,7 @@ msgstr "Mega Kritik"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr "Kritik Şansını +%40 artır.\n%100'ün üzerindeki Kritik Şansı, Kritik Hasarının iki katı kadar Mega Kritik vuruş yapabilir."
+msgstr "Kritik Şansını %+40 artır.\n%100'ün üzerindeki Kritik Şansı, Kritik Hasarının iki katı kadar Mega Kritik vuruş yapabilir."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -734,7 +734,7 @@ msgstr "Hyper-Threading"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr "Silah Miktarını 1.5 katına çıkar.\nSilah Hasarını 0.75 katına indir."
+msgstr "Silah Miktarını 1.5x katına çıkar.\nSilah Hasarını 0.75x katına indir."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -744,7 +744,7 @@ msgstr "Tank Çekirdeği"
 #. Plugin - description (tank_core)
 #. source: Increase Weapon Damage +20% per 100 Max HP.
 msgid "PLUGIN.tank_core.description"
-msgstr "Her 100 Azami Can başına Silah Hasarını +%20 artır."
+msgstr "Her 100 Azami Can başına Silah Hasarını %+20 artır."
 
 #. Plugin - name (service_pack)
 #. source: Service Pack
@@ -784,7 +784,7 @@ msgstr "Görev Yöneticisi"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr "Silah Yenilemeyi 2.0 katına çıkar.\nSilah Boyutunu 0.75 katına indir."
+msgstr "Silah Yenilemeyi 2.0x katına çıkar.\nSilah Boyutunu 0.75x katına indir."
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
@@ -794,7 +794,7 @@ msgstr ""
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr "Arşiv ve RAM ödüllerini 2.0 katına çıkar.\nArşiv ve RAM başarı oranlarını düşür."
+msgstr "Arşiv ve RAM ödüllerini 2.0x katına çıkar.\nArşiv ve RAM başarı oranlarını düşür."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -942,7 +942,7 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Paket Kaybı"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Gelen tüm hasardan kaçınma şansı. (Üstel)"
 
@@ -978,7 +978,7 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Şans"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
 msgstr "Daha iyi seçeneklerin gelme ihtimalini artırır; diğer avantajların yanı sıra nadirliği yükseltir."
 
@@ -1082,7 +1082,7 @@ msgstr "{weapon} Hasarı"
 #. source: Increases {weapon} damage by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.damage.description"
-msgstr "{weapon} silahının Hasarını +%{percent} artırır."
+msgstr "{weapon} silahının Hasarını %+{percent} artırır."
 
 #. Weapon upgrade card - attack speed stat title
 #. source: {weapon} Speed
@@ -1094,7 +1094,7 @@ msgstr "{weapon} Hızı"
 #. source: Increases {weapon} attack speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.speed.description"
-msgstr "{weapon} silahının saldırı hızını +%{percent} artırır."
+msgstr "{weapon} silahının saldırı hızını %+{percent} artırır."
 
 #. Weapon upgrade card - refresh/cooldown stat title
 #. source: {weapon} Refresh
@@ -1106,7 +1106,7 @@ msgstr "{weapon} Yenileme"
 #. source: Increases {weapon} refresh speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.refresh.description"
-msgstr "{weapon} silahının yenileme hızını +%{percent} artırır."
+msgstr "{weapon} silahının yenileme hızını %+{percent} artırır."
 
 #. Weapon upgrade card - size stat title
 #. source: {weapon} Size
@@ -1118,7 +1118,7 @@ msgstr "{weapon} Boyutu"
 #. source: Increases {weapon} size by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.size.description"
-msgstr "{weapon} silahının boyutunu +%{percent} artırır."
+msgstr "{weapon} silahının boyutunu %+{percent} artırır."
 
 #. Weapon upgrade card - spawn amount stat title
 #. source: {weapon} Amount
@@ -1130,7 +1130,7 @@ msgstr "{weapon} Miktarı"
 #. source: Adds +{percent}% chance of additional {spawn_noun}.
 #. Keep placeholders unchanged: {percent}, {spawn_noun}
 msgid "WEAPON_UPGRADE.amount.description"
-msgstr "+%{percent} ihtimalle fazladan {spawn_noun}."
+msgstr "%+{percent} ihtimalle fazladan {spawn_noun}."
 
 #. Weapon upgrade card - power stat title
 #. source: {weapon} Power
@@ -1142,25 +1142,25 @@ msgstr "{weapon} Gücü"
 #. source: Increases {weapon} Repel effect by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.repel.description"
-msgstr "{weapon} silahının Geri Püskürtme etkisini +%{percent} artırır."
+msgstr "{weapon} silahının Geri Püskürtme etkisini %+{percent} artırır."
 
 #. Weapon upgrade card - heat stacks power description
 #. source: Increases {weapon} Heat Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.heat.description"
-msgstr "{weapon} silahının Hararet yüklerini +%{percent} artırır."
+msgstr "{weapon} silahının Hararet yüklerini %+{percent} artırır."
 
 #. Weapon upgrade card - lag stacks power description
 #. source: Increases {weapon} Lag Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.lag.description"
-msgstr "{weapon} silahının Gecikme yüklerini +%{percent} artırır."
+msgstr "{weapon} silahının Gecikme yüklerini %+{percent} artırır."
 
 #. Weapon upgrade card - infect stacks power description
 #. source: Increases {weapon} Infect Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.infect.description"
-msgstr "{weapon} silahının Enfeksiyon yüklerini +%{percent} artırır."
+msgstr "{weapon} silahının Enfeksiyon yüklerini %+{percent} artırır."
 
 #. Weapon amount upgrade - phrase after "additional" for AVD
 #. source: logos spawning
@@ -1226,43 +1226,43 @@ msgstr "kart çıkar"
 #. source: Increases damage resistance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_armor.description"
-msgstr "Hasar direncini +%{percent} artırır."
+msgstr "Hasar direncini %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_coin_gain)
 #. source: Increases coin gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_coin_gain.description"
-msgstr "Jeton kazancını +%{percent} artırır."
+msgstr "Jeton kazancını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_crit_chance)
 #. source: Increases crit hit chance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_chance.description"
-msgstr "Kritik vuruş şansını +%{percent} artırır."
+msgstr "Kritik vuruş şansını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_crit_damage_multi)
 #. source: Increases crit hit damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
-msgstr "Kritik vuruş hasarını +%{percent} artırır."
+msgstr "Kritik vuruş hasarını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_damage_multi)
 #. source: Increases weapon damage multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_damage_multi.description"
-msgstr "Silah hasar çarpanını +%{percent} artırır."
+msgstr "Silah hasar çarpanını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_dodge)
 #. source: Increases chance of dodging damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_dodge.description"
-msgstr "Hasardan sıyrılma şansını +%{percent} artırır."
+msgstr "Hasardan sıyrılma şansını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_exp_gain)
 #. source: Increases EXP gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_exp_gain.description"
-msgstr "TP kazancını +%{percent} artırır."
+msgstr "TP kazancını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_health_regen)
 #. source: Increases Health Regen by +{percent} every 20s.
@@ -1274,13 +1274,13 @@ msgstr "Her 20 saniyede bir Can Yenilemeyi +{percent} artırır."
 #. source: Increases luck by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_luck.description"
-msgstr "Şansı +%{percent} artırır."
+msgstr "Şansı %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_magnetism_multi)
 #. source: Increases player magnetism by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_magnetism_multi.description"
-msgstr "Oyuncunun Çekim Gücünü +%{percent} artırır."
+msgstr "Oyuncunun Çekim Gücünü %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_max_health)
 #. source: Increases Max HP by +{percent}.
@@ -1292,43 +1292,43 @@ msgstr "Azami Canı +{percent} artırır."
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "Silahların Geri Püskürtme, Hararet, Enfeksiyon ve Gecikme gücünü +%{percent} artırır."
+msgstr "Silahların Geri Püskürtme, Hararet, Enfeksiyon ve Gecikme gücünü %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_proc_speed.description"
-msgstr "Dosya açma hızını +%{percent} artırır."
+msgstr "Dosya açma hızını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_refresh_multi)
 #. source: Increases weapon refresh multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_refresh_multi.description"
-msgstr "Silah yenileme çarpanını +%{percent} artırır."
+msgstr "Silah yenileme çarpanını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_speed)
 #. source: Increases movement speed by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_speed.description"
-msgstr "Hareket hızını +%{percent} artırır."
+msgstr "Hareket hızını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_weap_amount)
 #. source: Adds +{percent}% chance of additional weapon spawns.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_amount.description"
-msgstr "İlave silah çıkma şansını +%{percent} artırır."
+msgstr "İlave silah çıkma şansını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_weap_size)
 #. source: Increases weapon size multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_size.description"
-msgstr "Silah boyutu çarpanını +%{percent} artırır."
+msgstr "Silah boyutu çarpanını %+{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_weap_speed)
 #. source: Increases weapon attack speed multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_speed.description"
-msgstr "Silah saldırı hızı çarpanını +%{percent} artırır."
+msgstr "Silah saldırı hızı çarpanını %+{percent} artırır."
 
 #. Upgrade card - name (weapon_avd)
 #. source: AVD Logo
@@ -1546,7 +1546,7 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Varsayılan Levha Cismi"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
 msgstr "Üzerinize yapışmış turuncu trafik takozları. İşaret ettikleri şeyleri Hararet ile pişiriyorlar."
 
@@ -1566,9 +1566,9 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Çıkış Aygıtı"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr "İmleçten dışa doğru eş merkezli el sıkışma sinyalleri yayar."
+msgstr "İmleçten dışa doğru ses dalgaları yayar."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -1601,9 +1601,9 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "sekme"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
-msgstr "tuzak"
+msgstr "sekme"
 
 #. Weapon metadata
 #. source: dish
@@ -1628,7 +1628,7 @@ msgstr "bağlantı"
 #. Weapon metadata
 #. source: ring
 msgid "WEAPON.modem.spawn_noun"
-msgstr "sinyal"
+msgstr "dalga"
 
 #. BOSS - name (recycle_bin)
 #. source: Recycle Bin
@@ -2558,6 +2558,46 @@ msgstr "Profil.xls - Antivirus Survivors"
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
 msgstr "Görevler ve İstatistikler"
+
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Emeği Geçenler"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Geliştirme, Çizim, Müzik vb."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Yapımcı"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Animatör (Virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "Topluluk QA"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Topluluk Çevirmenleri"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Özel Teşekkürler"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr "Bu hayalimi gerçekleştirmeme yardımcı olduğunuz için hepinize çok teşekkür ederim. Sizi seviyorum! -Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
@@ -4425,14 +4465,14 @@ msgid "POLICY.open_relay.description"
 msgstr "Her savaş klasörü istenmeyen posta barındırır."
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
-msgstr "Varsayılan Etki Alanı İlkesi"
+msgstr "Natasha'nın Gazabı"
 
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr "Tüm standart İlkeler geçerlidir. Düşmanlar daha hızlı, daha dayanıklı ve daha kalabalıktır. Her Savaş Klasöründe mevcut Can yarıya iner. Ek silah, Keygen veya Değiştir hakkı yoktur. Boşluk etkisi 2 katına çıkar. Kaçış süresi yarıya iner."
+msgstr "Tüm standart İlkeler geçerlidir. Düşmanlar daha hızlı, daha dayanıklı ve daha kalabalıktır. Her Savaş Klasöründe mevcut Can yarıya iner. Ek silah, Keygen veya Değiştir hakkı yoktur. Boşluk etkisi 2x katına çıkar. Kaçış süresi yarıya iner."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4801,7 +4841,7 @@ msgstr "Oynamak için Çift Tıkla"
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
 msgid "CLICKABLE.double_click_shuffle"
-msgstr ""
+msgstr "Parçayı geçmek için Çift Tıkla"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
@@ -4848,7 +4888,7 @@ msgstr "Dil değiştirmek için Çift Tıkla"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr ""
+msgstr "Bağlantıyı açmak için Çift Tıkla[br]Oyundaki çeviriler, topluluğun cömert katkılarıyla sağlanmıştır."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5334,7 +5374,7 @@ msgstr ""
 
 #. Scene label
 msgid "Translations GitHub"
-msgstr ""
+msgstr "GitHub Çevirileri"
 
 #. avs03
 msgid "avs03.com"
@@ -5369,7 +5409,7 @@ msgstr "Hız Aşırtılmış"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr "Hasarı 1.6 katına çıkar.\nYenilemeyi -%15 azalt."
+msgstr "Hasarı 1.6x katına çıkar.\nYenilemeyi %-15 azalt."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5379,7 +5419,7 @@ msgstr "Hyper-Threading Destekli"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr "Miktara +2 ekle.\nHasarı -%20 azalt."
+msgstr "Miktara +2 ekle.\nHasarı %-20 azalt."
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
@@ -5389,7 +5429,7 @@ msgstr ""
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr "Hızı +%50 artır.\nGücü -%15 azalt."
+msgstr "Hızı %+50 artır.\nGücü %-15 azalt."
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5399,7 +5439,7 @@ msgstr "Şişmiş Önbellek"
 #. Weapon driver / overclock card - description (bloated_cache)
 #. source: Multiply Size 1.5x.
 msgid "DRIVER.bloated_cache.description"
-msgstr "Boyutu 1.5 katına çıkar."
+msgstr "Boyutu 1.5x katına çıkar."
 
 #. Weapon driver / overclock card - name (extended_table)
 #. source: Extended Table
@@ -5439,7 +5479,7 @@ msgstr "Uzakta Mesajı"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr "Miktara +1 ekle. Hızı +%20 artır.\nBoyutu +%15 artır."
+msgstr "Miktara +1 ekle. Hızı %+20 artır.\nBoyutu %+15 artır."
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5449,7 +5489,7 @@ msgstr "Arkadaş Listesi"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr "Miktara +2 ekle.\nGücü +%15 artır."
+msgstr "Miktara +2 ekle.\nGücü %+15 artır."
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5459,7 +5499,7 @@ msgstr "Eşleştirilmiş Cihazlar"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr "Miktara +1 ekle. Gücü +%25 artır.\nHızı +%20 artır."
+msgstr "Miktara +1 ekle. Gücü %+25 artır.\nHızı %+20 artır."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5469,7 +5509,7 @@ msgstr "Sabun"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr "Miktara +1 ekle.\nBoyutu +%40 artır."
+msgstr "Miktara +1 ekle.\nBoyutu %+40 artır."
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5509,7 +5549,7 @@ msgstr "Dolambaçlı Yol"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr "Harareti, Gecikmeye dönüştürür. Boyutu +%35 artır.\nHasarı +%15 artır."
+msgstr "Harareti, Gecikmeye dönüştürür. Boyutu %+35 artır.\nHasarı %+15 artır."
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5519,7 +5559,7 @@ msgstr "Çalışma Alanı"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr "Miktara +1 ekle.\nGücü +%30 artır."
+msgstr "Miktara +1 ekle.\nGücü %+30 artır."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5529,7 +5569,7 @@ msgstr "Tarayıcı Korsanlığı"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr "Gecikmeyi, Enfeksiyona dönüştürür. Miktara +1 ekle.\nGücü +%25 artır."
+msgstr "Gecikmeyi, Enfeksiyona dönüştürür. Miktara +1 ekle.\nGücü %+25 artır."
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5549,7 +5589,7 @@ msgstr "Böl"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür. Boyutu +%80 artır.\nMiktara -0.5 ekle."
+msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür. Boyutu %+80 artır.\nMiktara -0.5 ekle."
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5559,7 +5599,7 @@ msgstr "Kâğıt Kesiği"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr "Miktara +2 ekle.\nHızı +%25 artır."
+msgstr "Miktara +2 ekle.\nHızı %+25 artır."
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5569,7 +5609,7 @@ msgstr "Hararetli Posta"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr "Enfeksiyonu, Hararete dönüştürür. Miktara +1 ekle.\nHızı +%35 artır."
+msgstr "Enfeksiyonu, Hararete dönüştürür. Miktara +1 ekle.\nHızı %+35 artır."
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5589,7 +5629,7 @@ msgstr "Reddet"
 #. Weapon driver / overclock card - description (firewall_deny)
 #. source: Increase Power +50%. Add +1 Amount.
 msgid "DRIVER.firewall_deny.description"
-msgstr "Gücü +%50 artır. Miktara +1 ekle."
+msgstr "Gücü %+50 artır. Miktara +1 ekle."
 
 #. Weapon driver / overclock card - name (firewall_stealth)
 #. source: Flameout
@@ -5609,17 +5649,17 @@ msgstr "Cüretkâr"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr "Boyutu +%60 artır. Gücü +%60 artır.\nMiktarı -%25 azalt."
+msgstr "Boyutu %+60 artır. Gücü %+60 artır.\nMiktarı %-25 azalt."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr ""
+msgstr "Kontur"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr "Boyutu +%40 artır.\nMiktara +1 ekle."
+msgstr "Boyutu %+40 artır.\nMiktara +1 ekle."
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5629,7 +5669,7 @@ msgstr "Performans Testi"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr "Geri Püskürtmeyi, Hararete dönüştürür. Hasarı +%25 artır.\nHızı +%20 artır."
+msgstr "Geri Püskürtmeyi, Hararete dönüştürür. Hasarı %+25 artır.\nHızı %+20 artır."
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
@@ -5639,7 +5679,7 @@ msgstr ""
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr "FPS sayıları duvarlardan seker.\nBoyutu +%20 artır."
+msgstr "FPS sayıları duvarlardan seker.\nBoyutu %+20 artır."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5649,7 +5689,7 @@ msgstr "Kelle Avcısı"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr "İnfaz şansını artırır. Geri Püskürtmeyi, Hararete dönüştürür.\nHasarı -%15 azaltır."
+msgstr "İnfaz şansını artırır. Geri Püskürtmeyi, Hararete dönüştürür.\nHasarı %-15 azaltır."
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5669,7 +5709,7 @@ msgstr "Kundakla"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr "Geri Püskürtmeyi, Hararete dönüştürür. Miktara +1 ekle.\nGücü +%20 artır."
+msgstr "Geri Püskürtmeyi, Hararete dönüştürür. Miktara +1 ekle.\nGücü %+20 artır."
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -5682,24 +5722,24 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Mayınlar, tetiklenene kadar yerlerinde kalır."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Çevirmeli Bağlantı Tıkanıklığı"
+msgstr "Geri Besleme"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr "Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +1 ekle.\nBoyutu +%25 artır."
+msgstr "Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +1 ekle.\nBoyutu %+25 artır."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Geniş Bant"
+msgstr "Kazanç"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr "Hızı +%50 artır.\nHasarı +%20 artır."
+msgstr "Hızı %+50 artır.\nHasarı %+20 artır."
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -5709,7 +5749,7 @@ msgstr "Sekme Aşırı Yüklemesi"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr "Enfeksiyonu, Hararete dönüştürür. Hasarı +%35 artır.\nGücü +%35 artır."
+msgstr "Enfeksiyonu, Hararete dönüştürür. Hasarı %+35 artır.\nGücü %+35 artır."
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -5729,7 +5769,7 @@ msgstr "Saçıl"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr "Boyutu +%100 artır.\nHasarı -%20 azalt."
+msgstr "Boyutu %+100 artır.\nHasarı %-20 azalt."
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -5739,7 +5779,7 @@ msgstr "Boya Kovası"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr "Miktara +1 ekle.\nGücü +%40 artır."
+msgstr "Miktara +1 ekle.\nGücü %+40 artır."
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -5749,7 +5789,7 @@ msgstr "Tilt Oldu"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr "Duvardan sektiğinde: Boyutu artır. İki defaya kadar.\nBoyutu -%30 azalt."
+msgstr "Duvardan sektiğinde: Boyutu artır. İki defaya kadar.\nBoyutu %-30 azalt."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -5759,7 +5799,7 @@ msgstr "Katı"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür.\nGücü +%70 artır."
+msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür.\nGücü %+70 artır."
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -5769,7 +5809,7 @@ msgstr "Sezgisel"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr "Hasarı +%40 artır.\nHızı +%20 artır."
+msgstr "Hasarı %+40 artır.\nHızı %+20 artır."
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -5779,7 +5819,7 @@ msgstr "Mikrodalga Çanağı"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr "Gecikmeyi, Hararete dönüştürür. Boyutu +%30 artır.\nHızı +%15 artır."
+msgstr "Gecikmeyi, Hararete dönüştürür. Boyutu %+30 artır.\nHızı %+15 artır."
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -5799,7 +5839,7 @@ msgstr "Silah Zehri"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür. Boyutu +%50 artır.\nMiktara +1 ekle."
+msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür. Boyutu %+50 artır.\nMiktara +1 ekle."
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -5819,7 +5859,7 @@ msgstr "Derin Arama"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr "Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +2 ekle.\nHasarı -%20 azalt."
+msgstr "Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +2 ekle.\nHasarı %-20 azalt."
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -5829,7 +5869,7 @@ msgstr "Sonrakini Bul"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr "Hızı +%30 artır.\nYenilemeyi +%20 artır."
+msgstr "Hızı %+30 artır.\nYenilemeyi %+20 artır."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -5839,7 +5879,7 @@ msgstr "Yüksek Kalibre"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr "Hasarı 1.5 katına çıkar. Gücü +%30 artır.\nYenilemeyi +%25 artır."
+msgstr "Hasarı 1.5x katına çıkar. Gücü %+30 artır.\nYenilemeyi %+25 artır."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -5849,7 +5889,7 @@ msgstr "Tek At"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr "İnfaz şansına +%7 ekle.\nHasarı +%25 artır."
+msgstr "İnfaz şansına %+7 ekle.\nHasarı %+25 artır."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -5859,7 +5899,7 @@ msgstr "Hile Yap"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr "Hasarı +%50 artır. Miktara +1 ekle.\nYenilemeyi -%15 azalt."
+msgstr "Hasarı %+50 artır. Miktara +1 ekle.\nYenilemeyi %-15 azalt."
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn

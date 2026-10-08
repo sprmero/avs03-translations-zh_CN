@@ -37,7 +37,7 @@ msgstr "Standard"
 msgid "CLASS.default.description"
 msgstr ""
 "Der Standardzeiger.\n"
-"Keine Vorteile oder Nachteile."
+"Keine Vorteile oder Nachteile"
 
 #. Class select - name (null)
 #. source: Null
@@ -6422,7 +6422,7 @@ msgstr "Waffen..."
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Great, now just pick a weapon you want to start with."
-msgstr "Wähle nun eine erste Waffe aus."
+msgstr "Super! Wähle nun eine erste Waffe aus."
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6483,7 +6483,19 @@ msgid ""
 "If you had fun during this demo be sure to give it a wishlist or follow on "
 "Steam - there's so much more to come!"
 msgstr ""
-"dude this is a long ass demo string im not gonna bother translating that"
+"Du hast es geschafft! Ich bin stolz auf dich! Ich hoffe du hattest Spaß!\n"
+"\n"
+"Allerdings tut es mir furchtbar leid, dass dies so ein langweiliger und "
+"uninspirierter Gewinnbildschirm ist. Du verdienst- und bekommst etwas "
+"besseres - in der Vollversion.\n"
+"\n"
+"Genieße in der Zwischenzeit ein paar schwerere Schwierigkeitsstufen "
+"auszuprobieren, oder gebe diese Beanz für ein paar Upgrades aus und versuch "
+"unterschiedliche builds aus.\n"
+"\n"
+"Wenn du während der Demo Spaß hattest, stell sicher dem Spiel auf Steam zu "
+"folgen oder es auf deine Wunschliste zu packen - es wird noch so viel mehr "
+"kommen!"
 
 #. Scene label
 #. screens: end_screen.tscn
