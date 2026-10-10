@@ -215,7 +215,7 @@ msgstr "每升一级，处理速度倍率 +1%。"
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr "每升一级，额外生成武器的几 +3%。"
+msgstr "每升一级，额外生成武器的概率 +3%。"
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
@@ -304,7 +304,7 @@ msgstr "自动播放"
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
 msgid "PLUGIN.blast_on_file_open.description"
-msgstr "当打开文件时，有 25% 概率触发一次爆炸。"
+msgstr "当打开文件时，有 25% 的概率触发一次爆炸。"
 
 #. Plugin - name (chance_defrag)
 #. source: Disk Cleanup
@@ -314,7 +314,7 @@ msgstr "磁盘清理"
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
 msgid "PLUGIN.chance_defrag.description"
-msgstr "每过 30 秒，便有 10% 概率执行一次碎片整理。"
+msgstr "每过 30 秒，便有 10% 的概率执行一次碎片整理。"
 
 #. Plugin - name (coin_boost)
 #. source: Coin Gain Boost
@@ -440,7 +440,7 @@ msgstr "重试"
 #. Plugin - description (heal_on_crit)
 #. source: 5% Chance to Heal when landing a Crit.
 msgid "PLUGIN.heal_on_crit.description"
-msgstr "当打出暴击时，有 5% 概率治疗自己。"
+msgstr "当打出暴击时，有 5% 的概率治疗自己。"
 
 #. Plugin - name (hp_boost)
 #. source: Max HP Boost
@@ -460,7 +460,7 @@ msgstr "自动恢复"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr "当受到治疗时，有 7% 概率 +3 点最大生命值。"
+msgstr "当受到治疗时，有 7% 的概率 +3 点最大生命值（冷却时间 5 秒）。"
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -748,7 +748,7 @@ msgstr "暴击大爆炸"
 #. Plugin - description (crit_blast)
 #. source: 10% Chance for Crits to Blast for 50% Damage.
 msgid "PLUGIN.crit_blast.description"
-msgstr "暴击有 10% 概率触发爆炸，造成 50% 的伤害。"
+msgstr "暴击有 10% 的概率触发爆炸，造成 50% 的伤害。"
 
 #. Plugin - name (zip_recover)
 #. source: Zip Recover
@@ -852,7 +852,7 @@ msgstr "RAID 0"
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr "Zip 压缩包和下载内存的奖励变为原来的 2.0x，但成功概率降低。"
+msgstr "Zip 压缩包和下载内存的奖励变为原来的 2.0x，但成功的概率降低。"
 
 #. Plugin - name (system_restore)
 #. source: System Restore
