@@ -510,7 +510,7 @@ msgstr "因祸得福"
 #. Plugin - description (lucky_when_hurt)
 #. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
 msgid "PLUGIN.lucky_when_hurt.description"
-msgstr "当受到伤害时，幸运变为原来的 2.0 倍（持续 6 秒）。"
+msgstr "当受到伤害时，幸运变为原来的 2.0x（持续 6 秒）。"
 
 #. Plugin - name (magnetism_boost)
 #. source: Magnetism Boost
@@ -4195,12 +4195,12 @@ msgstr "对敌人施加灼烧 {amount} 次"
 #. Unlock requirement - reach 2x Processing Speed
 #. source: Reach 2.00× Processing Speed
 msgid "UI.unlock_reach_proc_2x"
-msgstr "处理速度达到 2.00 倍"
+msgstr "处理速度达到 2.00x"
 
 #. Unlock requirement - reach 2x Cursor Speed
 #. source: Reach 2.00× Cursor Speed
 msgid "UI.unlock_reach_cursor_2x"
-msgstr "指针速度达到 2.00 倍"
+msgstr "指针速度达到 2.00x"
 
 #. Unlock requirement - skip or delete N installers
 #. source: Skip or delete {amount} plugins in an Installer
@@ -4530,7 +4530,7 @@ msgstr "虚空裂隙"
 #. Optional extra difficulty policy - description (void_breach)
 #. source: The void deals 2x damage and applies 2x Lag.
 msgid "POLICY.void_breach.description"
-msgstr "虚空造成 2 倍的伤害和卡顿。"
+msgstr "虚空造成双倍的伤害和卡顿。"
 
 #. Optional extra difficulty policy - name (bad_sector)
 #. source: Bad Sector
