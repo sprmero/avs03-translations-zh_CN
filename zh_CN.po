@@ -3568,7 +3568,7 @@ msgstr "%s 下载完成。"
 #. Not enough keys toast
 #. source: Not Enough Keys :(
 msgid "UI.notif_not_enough_keys"
-msgstr "没有足够的密钥 :("
+msgstr "密钥不足 :("
 
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
