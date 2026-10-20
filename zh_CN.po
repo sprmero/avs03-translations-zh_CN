@@ -4321,7 +4321,7 @@ msgstr "暂时增加光标速度。"
 #. UI (script-driven)
 #. source: N2O
 msgid "UI.unlock_widget_nos_reward"
-msgstr "氮气加速"
+msgstr "氮气飞车"
 
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
