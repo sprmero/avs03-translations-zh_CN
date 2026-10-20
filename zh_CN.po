@@ -41,7 +41,7 @@ msgstr ""
 #. Class select - name (null)
 #. source: Null
 msgid "CLASS.null.name"
-msgstr "空光标"
+msgstr "空指针"
 
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
