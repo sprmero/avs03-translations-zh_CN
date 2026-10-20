@@ -2617,7 +2617,7 @@ msgstr "Special Thanks"
 #. Credits window - note under Special Thanks
 #. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
 msgid "CREDITS.special_thanks_note"
-msgstr "Thank you all so much for helping me achieve this dream. I love you all! -Shaun"
+msgstr "真的非常感谢大家帮助我实现了这个梦想。我爱你们所有人！ -Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
