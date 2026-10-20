@@ -6209,7 +6209,7 @@ msgstr "已找到缺失的动态链接库 scd.dll。"
 #. Scene label
 #. screens: dll_window.tscn
 msgid "Procedure can now resume."
-msgstr "代码将继续执行。"
+msgstr "现在可以继续操作了。"
 
 #. Scene label
 #. screens: download_ram_window.tscn
