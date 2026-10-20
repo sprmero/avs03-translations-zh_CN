@@ -5200,7 +5200,7 @@ msgstr "Lv %d/%d"
 #. Meta upgrade menu
 #. source: MAX RANK
 msgid "META.rank_max"
-msgstr "最高排名"
+msgstr "已满级"
 
 #. Meta upgrade menu
 #. source: Cost: %d Beanz
