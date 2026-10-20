@@ -651,7 +651,7 @@ msgstr ""
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
 msgid "PLUGIN.morgan_av.name"
-msgstr "Morgan 防病毒软件"
+msgstr "银山毒霸"
 
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
@@ -3733,7 +3733,7 @@ msgstr "插件安装程序 金色传说版"
 #. Morgan AV installer window title
 #. source: Morgan Antivirus Setup
 msgid "UI.installer_title_morgan"
-msgstr "Morgan 防病毒软件安装程序"
+msgstr "银山毒霸安装程序"
 
 #. Installer skip tooltip when no Key was spent
 #. source: Skip installing.
@@ -4437,7 +4437,7 @@ msgstr "在 10 秒内清除一个增强版！敌人。"
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
 msgstr ""
-"安装 Morgan 防病毒软件来生成额外的\n"
+"安装 银山毒霸 来生成额外的\n"
 "增强版！敌人，增加游戏难度。"
 
 #. UI (script-driven)
@@ -5269,7 +5269,7 @@ msgstr "金色传说安装包.exe"
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
 msgid "CLICKABLE.filename.morgan_av"
-msgstr "Morgan杀毒.pgi"
+msgstr "银山毒霸.pgi"
 
 #. Run stats panel row
 #. source: Difficulty
