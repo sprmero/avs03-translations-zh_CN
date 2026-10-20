@@ -3995,7 +3995,7 @@ msgstr "豆豆：%d"
 #. source: Coin: %.2f
 #. Keep placeholders unchanged: %.2f
 msgid "UI.coin"
-msgstr "硬币：%d"
+msgstr "硬币：%.2f"
 
 #. HUD - Keys label
 #. source: Keys: %d
