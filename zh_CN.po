@@ -359,7 +359,7 @@ msgstr "光标速度变为原来的 1.1x。"
 #. Plugin - name (cursor_speed_damage)
 #. source: Critical Battery
 msgid "PLUGIN.cursor_speed_damage.name"
-msgstr "关键电池"
+msgstr "电量告急"
 
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
