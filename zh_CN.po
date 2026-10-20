@@ -2001,7 +2001,7 @@ msgstr "注册机音量"
 #. Settings menu
 #. source: Main Menu Computer Sound
 msgid "SETTINGS.menu_computer_sound"
-msgstr "主菜单电脑声音"
+msgstr "主菜单计算机声音"
 
 #. Settings menu
 #. source: Animation Speed
@@ -2078,7 +2078,7 @@ msgstr "游戏中注册机播放音乐的音量。"
 #. Settings menu
 #. source: Play the computer humming sound on the main menu.
 msgid "SETTINGS.menu_computer_sound_tip"
-msgstr "在主菜单时，游戏内的电脑会发出嗡嗡声。"
+msgstr "在主菜单时，游戏内的计算机会发出嗡嗡声。"
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2547,7 +2547,7 @@ msgstr "长颈鹿"
 #. Personalise - avatar name
 #. source: Piggy
 msgid "UI.avatar_piggy"
-msgstr "小猪"
+msgstr "猪猪"
 
 #. Personalise - avatar name
 #. source: Heart
@@ -2557,7 +2557,7 @@ msgstr "心"
 #. Personalise - avatar name
 #. source: Computer
 msgid "UI.avatar_computer"
-msgstr "电脑"
+msgstr "计算机"
 
 #. Personalise - avatar name
 #. source: Printer
@@ -4760,7 +4760,7 @@ msgstr "立刻回复 50% 的最大生命值。"
 #. Health Check Pro program subtitle
 #. source: Help protect your PC
 msgid "UI.health_check_pro_banner"
-msgstr "帮助保护您的电脑"
+msgstr "帮助保护您的计算机"
 
 #. Health Check Pro file-upgrade card title
 #. source: Health Check Files
