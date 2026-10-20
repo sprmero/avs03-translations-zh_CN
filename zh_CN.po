@@ -3552,7 +3552,7 @@ msgstr "投资已提现 (%.2f)"
 #. Side Task complete toast
 #. source: Side Task complete
 msgid "UI.notif_side_objective_complete"
-msgstr "次要任务完成。"
+msgstr "附加任务完成。"
 
 #. Vapidshare cracked installer spawned toast
 #. source: Cracked Installer created
@@ -3674,7 +3674,7 @@ msgstr ""
 "躲避敌人、收集经验和硬币、打开文件。有些文件可能有风险，有些文件需要密钥，"
 "有些文件只有好处，没有坏处。\n"
 "\n"
-"在右上角，您可以看到每回合中的次要任务，完成即可获得奖励。"
+"在右上角，您可以看到每回合中的附加任务，完成即可获得奖励。"
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
@@ -4131,12 +4131,12 @@ msgstr "完成 {amount} 个任务"
 #. source: Complete {amount} Side Tasks
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_complete_side_tasks"
-msgstr "完成 {amount} 个次要任务"
+msgstr "完成 {amount} 个附加任务"
 
 #. Lifetime Side Tasks completed milestone description
 #. source: Side Tasks completed across all runs.
 msgid "UI.unlock_general_side_tasks_desc"
-msgstr "在所有游戏轮次中完成的次要任务数量。"
+msgstr "在所有游戏轮次中完成的附加任务数量。"
 
 #. Unlock requirement - crit N times
 #. source: Crit {amount} times
@@ -5462,12 +5462,12 @@ msgstr "在本轮游戏中单次攻击造成的最高伤害。"
 #. Run Side Tasks completed label
 #. source: Side Tasks
 msgid "RUNSTAT.side_tasks"
-msgstr "次要任务"
+msgstr "附加任务"
 
 #. Run Side Tasks completed tooltip
 #. source: Side Tasks completed this run.
 msgid "RUNSTAT.side_tasks_desc"
-msgstr "在本轮游戏中完成的次要任务数量。"
+msgstr "在本轮游戏中完成的附加任务数量。"
 
 #. Last round DPS tooltip
 #. source: Damage per second in the last Battle Folder.
