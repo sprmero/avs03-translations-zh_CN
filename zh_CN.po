@@ -2682,7 +2682,7 @@ msgstr "动画师（Virry）"
 #. Credits window - role title
 #. source: Community QA
 msgid "CREDITS.community_qa"
-msgstr "社区 Q&A"
+msgstr "社区测试人员"
 
 #. Credits window - role title
 #. source: Community Translators
