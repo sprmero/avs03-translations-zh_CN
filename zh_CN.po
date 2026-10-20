@@ -5095,7 +5095,7 @@ msgstr "需要 3 个密钥·保证传说品质"
 #. Desktop icon tooltip
 #. source: Destroys everything on-screen!
 msgid "CLICKABLE.vapor_destroys"
-msgstr "摧毁屏幕上的所有敌人和文件！"
+msgstr "摧毁屏幕上的一切！"
 
 #. Desktop icon tooltip
 #. source: Harder run. Extra Plus! enemies.
