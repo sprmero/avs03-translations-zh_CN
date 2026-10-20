@@ -2249,12 +2249,12 @@ msgstr "普通"
 #. Rarity label
 #. source: Uncommon
 msgid "RARITY.uncommon"
-msgstr "优秀"
+msgstr "少见"
 
 #. Rarity label
 #. source: Rare
 msgid "RARITY.rare"
-msgstr "精良"
+msgstr "稀有"
 
 #. Rarity label
 #. source: Epic
