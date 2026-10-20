@@ -6319,7 +6319,7 @@ msgstr "Vapor.exe"
 #. Scene label
 #. screens: zip_window.tscn
 msgid "SHZip v2.03 (evaluation copy)"
-msgstr "SHZip v2.03（评估版本）"
+msgstr "SHZip v2.03（试用版）"
 
 #. Scene label
 #. screens: zip_window.tscn
