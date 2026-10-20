@@ -5519,7 +5519,7 @@ msgstr "健康度检查"
 
 #. Scene label
 msgid "Pointer Trails"
-msgstr "指针踪迹"
+msgstr "指针轨迹"
 
 #. Scene label
 msgid "Download More RAM"
