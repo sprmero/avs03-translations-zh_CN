@@ -1876,12 +1876,12 @@ msgstr "未知"
 #. Settings menu
 #. source: Standard
 msgid "SETTINGS.zoom_standard"
-msgstr "正常视角"
+msgstr "标准视图"
 
 #. Settings menu
 #. source: Zoomed Out
 msgid "SETTINGS.zoom_zoomed_out"
-msgstr "拉远视角"
+msgstr "拉远视图"
 
 #. Settings menu
 #. source: Language
@@ -1956,7 +1956,7 @@ msgstr "窗口模式"
 #. Settings menu
 #. source: Display Zoom
 msgid "SETTINGS.display_zoom"
-msgstr "视角缩放"
+msgstr "视图缩放"
 
 #. Settings menu
 #. source: Vsync
@@ -2031,7 +2031,7 @@ msgstr "在窗口化和全屏间切换。"
 #. Settings menu
 #. source: How large the game draws inside the window.
 msgid "SETTINGS.display_zoom_tip"
-msgstr "视角越远，游戏画面占整个窗口的比例就越小。"
+msgstr "视图越远，游戏画面占整个窗口的比例就越小。"
 
 #. Settings menu
 #. source: Lock the frame rate to your display to prevent tearing.
