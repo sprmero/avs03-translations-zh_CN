@@ -3925,12 +3925,12 @@ msgstr "正在验证缓存文件..."
 #. Clearzone archive window title
 #. source: Clearzone Archive
 msgid "UI.rar_title"
-msgstr "Clearzone 压缩文件"
+msgstr "清理区域 归档文件"
 
 #. Clearzone plugin pick window title
 #. source: Clearzone - Pick Your Plugin
 msgid "UI.rar_plugin_title"
-msgstr "Clearzone - 选择您的插件"
+msgstr "清理区域 - 选择您的插件"
 
 #. Clearzone archive clear count
 #. source: %d / %d
@@ -3941,7 +3941,7 @@ msgstr "%d / %d"
 #. Clearzone archive clears label
 #. source: Clears
 msgid "UI.rar_clears"
-msgstr "已清除"
+msgstr "已清理"
 
 #. Clearzone menu - Actions
 #. source: Actions
