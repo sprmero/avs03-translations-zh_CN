@@ -22,7 +22,7 @@ msgid "CLASS.brick.description"
 msgstr ""
 "+40 点最大生命值。\n"
 "+12 点护甲。\n"
-"指针速度为 0.8x。\n"
+"光标速度为 0.8x。\n"
 "武器伤害为 0.85x。\n"
 "当受到伤害时，武器伤害变为原来的 1.1x（持续 8 秒，可叠加 3 次）。"
 
@@ -35,13 +35,13 @@ msgstr "默认"
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
 msgstr ""
-"没有指针类加成或惩罚。\n"
-"均衡的基础指针。"
+"没有光标类加成或惩罚。\n"
+"均衡的基础光标。"
 
 #. Class select - name (null)
 #. source: Null
 msgid "CLASS.null.name"
-msgstr "空指针"
+msgstr "空光标"
 
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
@@ -61,11 +61,11 @@ msgstr "向量"
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
 msgstr ""
-"指针速度为 1.25x。\n"
+"光标速度为 1.25x。\n"
 "+15 点丢包。\n"
 "-25 点最大生命值。\n"
 "武器伤害为 0.9x。\n"
-"当丢包时，指针速度变为原来的 1.25x，武器刷新变为原来的 1.2x（持续 4 秒）。"
+"当丢包时，光标速度变为原来的 1.25x，武器刷新变为原来的 1.2x（持续 4 秒）。"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -79,7 +79,7 @@ msgstr ""
 "暴击率 +12%。\n"
 "暴击伤害为 1.25x。\n"
 "-15 点最大生命值。\n"
-"指针速度为 0.9x。\n"
+"光标速度为 0.9x。\n"
 "武器伤害为 0.92x。"
 
 #. Class select - name (thread)
@@ -165,12 +165,12 @@ msgstr "每升一级，暴击伤害倍率 +2%。"
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
 msgid "META.cursor_speed.name"
-msgstr "指针速度"
+msgstr "光标速度"
 
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "每升一级，指针速度倍率 +1%。"
+msgstr "每升一级，光标速度倍率 +1%。"
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
@@ -349,12 +349,12 @@ msgstr "暴击率变为原来的 1.1x。"
 #. Plugin - name (cursor_speed_boost)
 #. source: Cursor Speed Boost
 msgid "PLUGIN.cursor_speed_boost.name"
-msgstr "指针速度增强"
+msgstr "光标速度增强"
 
 #. Plugin - description (cursor_speed_boost)
 #. source: Multiply Cursor Speed 1.1x
 msgid "PLUGIN.cursor_speed_boost.description"
-msgstr "指针速度变为原来的 1.1x。"
+msgstr "光标速度变为原来的 1.1x。"
 
 #. Plugin - name (cursor_speed_damage)
 #. source: Critical Battery
@@ -365,8 +365,8 @@ msgstr "关键电池"
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
 msgstr ""
-"指针速度 +10%。\n"
-"当受到伤害时，指针速度 +30%（持续 10秒）。"
+"光标速度 +10%。\n"
+"当受到伤害时，光标速度 +30%（持续 10秒）。"
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -582,7 +582,7 @@ msgstr "粗笨强壮"
 msgid "PLUGIN.slow_but_strong.description"
 msgstr ""
 "武器伤害变为原来的 1.25x。\n"
-"指针速度 -10%。"
+"光标速度 -10%。"
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -718,7 +718,7 @@ msgstr "刷新超频"
 msgid "PLUGIN.refresh_overclock.description"
 msgstr ""
 "武器刷新 +50%。\n"
-"指针速度 -15%。"
+"光标速度 -15%。"
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -1101,7 +1101,7 @@ msgstr "影响所有武器冷却的速度（按指数计算）。"
 #. Stat display - name (upgrade_player_speed)
 #. source: Cursor Speed
 msgid "STAT.upgrade_player_speed.name"
-msgstr "指针速度"
+msgstr "光标速度"
 
 #. Stat display - description (upgrade_player_speed)
 #. source: Multiplies the player movement speed.
@@ -1534,7 +1534,7 @@ msgstr "屠龙刀"
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr "在指针上方和下方斩击。当数量增加时，斩击会交替出现。"
+msgstr "在光标上方和下方斩击。当数量增加时，斩击会交替出现。"
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -2011,7 +2011,7 @@ msgstr "动画速度"
 #. Settings menu
 #. source: Menu Cursor Speed
 msgid "SETTINGS.menu_cursor_speed"
-msgstr "菜单指针速度"
+msgstr "菜单光标速度"
 
 #. Settings menu
 #. source: Run as Administrator
@@ -2093,7 +2093,7 @@ msgstr "UI 动画和过渡效果的播放速度。"
 #. Settings menu
 #. source: How fast the cursor moves with the stick or keys in menus.
 msgid "SETTINGS.menu_cursor_speed_tip"
-msgstr "在菜单中使用摇杆或按键移动指针的速度。"
+msgstr "在菜单中使用摇杆或按键移动光标的速度。"
 
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
@@ -2735,7 +2735,7 @@ msgstr "完成一项武器任务，然后在“添加或删除解锁项”中购
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
 msgstr ""
-"不同的指针类会改变您的战斗方式。解锁后，您可以在“添加或删除解锁项”中购买。"
+"不同的光标类会改变您的战斗方式。解锁后，您可以在“添加或删除解锁项”中购买。"
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
@@ -3046,7 +3046,7 @@ msgstr "使用此武器清除的敌人数量。"
 #. Profile stats - class sheet row tooltip
 #. source: Runs completed with this Cursor Class.
 msgid "UI.stat_class_row_desc"
-msgstr "使用此指针类完成了多少轮游戏。"
+msgstr "使用此光标类完成了多少轮游戏。"
 
 #. Profile stats - policy sheet row tooltip
 #. source: Runs completed with this Policy.
@@ -3091,7 +3091,7 @@ msgstr "敌人"
 #. Profile stats - cursor class sheet tab
 #. source: Cursors
 msgid "UI.stat_sheet_classes"
-msgstr "指针"
+msgstr "光标"
 
 #. Profile stats - policy completions sheet tab
 #. source: Policies
@@ -3179,7 +3179,7 @@ msgstr "解锁新武器以作为初始武器或在游戏中选用。"
 #. Add/Remove Unlocks - cursors tab intro
 #. source: Unlock new Cursor Classes to start with.
 msgid "UI.features_store_intro_cursors"
-msgstr "解锁新的指针类，可以在开始游戏时选用。"
+msgstr "解锁新的光标类，可以在开始游戏时选用。"
 
 #. Add/Remove Unlocks - plugins tab intro
 #. source: Unlock new Plugins to install during runs.
@@ -3204,7 +3204,7 @@ msgstr "武器"
 #. UI (script-driven)
 #. source: Cursors
 msgid "UI.store_group_cursors"
-msgstr "指针"
+msgstr "光标"
 
 #. UI (script-driven)
 #. source: Plugins
@@ -3234,7 +3234,7 @@ msgstr "其他"
 #. Tasks screen - cursor class unlock category
 #. source: Cursors
 msgid "UI.task_group_classes"
-msgstr "指针类"
+msgstr "光标类"
 
 #. Tasks screen - weapon driver unlock category
 #. source: Drivers
@@ -3269,7 +3269,7 @@ msgstr "武器"
 #. Task tooltip type - singular
 #. source: Cursor Class
 msgid "UI.task_group_singular_class"
-msgstr "指针类"
+msgstr "光标类"
 
 #. Task tooltip type - singular
 #. source: Plugin
@@ -3431,7 +3431,7 @@ msgstr "未完成"
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
 msgstr ""
-"在安全文件夹中使用鼠标控制指针。[br]战斗文件夹中将始终使用 WASD 键或左摇杆"
+"在安全文件夹中使用鼠标控制光标。[br]战斗文件夹中将始终使用 WASD 键或左摇杆"
 "移动。"
 
 #. UI (script-driven)
@@ -3578,7 +3578,7 @@ msgstr "您在游戏中会有四个武器，这是第一个。随着等级提升
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr "不同的指针类会改变您的基础数值。所有升级都会在基础数值之上倍乘。"
+msgstr "不同的光标类会改变您的基础数值。所有升级都会在基础数值之上倍乘。"
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
@@ -3634,7 +3634,7 @@ msgid "UI.tutorial_3_body"
 msgstr ""
 "要开始游戏，您需要选择{class}和{difficulty}。\n"
 "\n"
-"现在我们先选择{default}指针，随着游戏进程推进，会有更多指针解锁。\n"
+"现在我们先选择{default}光标，随着游戏进程推进，会有更多光标解锁。\n"
 "\n"
 "建议您首先选择协议 1~3 之间的{difficulty}。\n"
 "\n"
@@ -3682,7 +3682,7 @@ msgstr ""
 msgid "UI.tutorial_7_body"
 msgstr ""
 "清除敌人和及时抵达{safe}都可以使您获得豆豆。 完成任务还可获取额外的豆豆。 "
-"用您的豆豆购买新的指针类、武器、升级、插件、文件、{vapor}商品，还有更多！"
+"用您的豆豆购买新的光标类、武器、升级、插件、文件、{vapor}商品，还有更多！"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
@@ -4200,7 +4200,7 @@ msgstr "处理速度达到 2.00x"
 #. Unlock requirement - reach 2x Cursor Speed
 #. source: Reach 2.00× Cursor Speed
 msgid "UI.unlock_reach_cursor_2x"
-msgstr "指针速度达到 2.00x"
+msgstr "光标速度达到 2.00x"
 
 #. Unlock requirement - skip or delete N installers
 #. source: Skip or delete {amount} plugins in an Installer
@@ -4316,7 +4316,7 @@ msgstr "在一轮游戏中收集 {amount} 枚硬币"
 #. UI (script-driven)
 #. source: Temporarily boost cursor speed for a short burst.
 msgid "UI.unlock_widget_nos_desc"
-msgstr "暂时增加指针速度。"
+msgstr "暂时增加光标速度。"
 
 #. UI (script-driven)
 #. source: N2O
@@ -5354,12 +5354,12 @@ msgstr "本轮游戏的分数，根据清除敌人数、等级、安全文件夹
 #. Run stats panel row
 #. source: Class
 msgid "RUNSTAT.class"
-msgstr "指针类"
+msgstr "光标类"
 
 #. Run stats panel row
 #. source: Cursor class chosen for this run.
 msgid "RUNSTAT.class_desc"
-msgstr "本轮游戏选择的指针类。"
+msgstr "本轮游戏选择的光标类。"
 
 #. Run stats panel row
 #. source: Policy
@@ -6244,7 +6244,7 @@ msgstr "LemWire 4.7"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "Searching: cursor upgrades"
-msgstr "正在搜索：指针升级"
+msgstr "正在搜索：光标升级"
 
 #. Scene label
 #. screens: lem_window.tscn
