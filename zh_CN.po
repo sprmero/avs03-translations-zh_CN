@@ -4190,7 +4190,7 @@ msgstr "打出 {amount} 次爆头"
 #. source: Apply {amount} Heat stacks to enemies
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_apply_heat"
-msgstr "对敌人施加灼烧 {amount} 次"
+msgstr "对敌人施加灼烧 {amount} 层"
 
 #. Unlock requirement - reach 2x Processing Speed
 #. source: Reach 2.00× Processing Speed
