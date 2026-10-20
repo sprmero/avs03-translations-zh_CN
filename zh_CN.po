@@ -4218,7 +4218,7 @@ msgstr "从商店购买 {amount} 个升级"
 #. source: Open {amount} Health Checks
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_health_check"
-msgstr "打开健康度检查 {amount} 次"
+msgstr "打开健康检查 {amount} 次"
 
 #. Unlock requirement - heal N HP lifetime
 #. source: Heal {amount} HP
@@ -4356,12 +4356,12 @@ msgstr "淘钥"
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
 msgid "UI.unlock_file_health_check_pro_desc"
-msgstr "立刻回复生命值，或在接下来的战斗中强化健康度检查文件。"
+msgstr "立刻回复生命值，或在接下来的战斗中强化健康检查文件。"
 
 #. UI (script-driven)
 #. source: Health Check Plus
 msgid "UI.unlock_file_health_check_pro_reward"
-msgstr "健康度检查增强版"
+msgstr "健康检查增强版"
 
 #. UI (script-driven)
 #. source: Invest Coin between battles and cash out later.
@@ -4750,7 +4750,7 @@ msgstr "已升级"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr "在本轮游戏的后续战斗中，健康度检查文件会掉落更多的心"
+msgstr "在本轮游戏的后续战斗中，健康检查文件会掉落更多的心"
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4765,7 +4765,7 @@ msgstr "帮助保护您的电脑"
 #. Health Check Pro file-upgrade card title
 #. source: Health Check Files
 msgid "UI.health_check_pro_file_head"
-msgstr "健康度检查文件"
+msgstr "健康检查文件"
 
 #. Health Check Pro heal card title
 #. source: Instant Repair
@@ -4775,7 +4775,7 @@ msgstr "即刻修复"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr "升级后，战斗中的健康度检查文件会掉落更多的心。"
+msgstr "升级后，战斗中的健康检查文件会掉落更多的心。"
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -5515,7 +5515,7 @@ msgstr "碎片整理"
 
 #. Scene label
 msgid "Health Check"
-msgstr "健康度检查"
+msgstr "健康检查"
 
 #. Scene label
 msgid "Pointer Trails"
@@ -6357,7 +6357,7 @@ msgstr "正在收集散落的硬币。"
 #. Scene label
 #. screens: main.tscn
 msgid "Critical Health!"
-msgstr "健康度危急！"
+msgstr "健康危急！"
 
 #. Scene label
 #. screens: starter_folder.tscn
