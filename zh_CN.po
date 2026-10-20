@@ -1716,7 +1716,7 @@ msgstr "Ponzi Puddy"
 #. BOSS - name (beachball)
 #. source: Spinning Beach Ball of Death
 msgid "BOSS.beachball.name"
-msgstr "死亡旋转彩球"
+msgstr "死亡旋转沙滩球"
 
 #. BOSS - name (random)
 #. source: Random Boss
