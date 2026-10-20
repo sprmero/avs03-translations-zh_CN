@@ -2698,8 +2698,7 @@ msgstr "特别感谢"
 #. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
 msgid "CREDITS.special_thanks_note"
 msgstr ""
-"非常感谢大家的帮助，让我有机会实现这个梦想。我爱你们！！！\n"
-"-Shaun"
+"真的非常感谢大家帮助我实现了这个梦想。我爱你们所有人！ —Shaun"
 
 #. Profile stats window - statistics tab
 #. source: Stats
