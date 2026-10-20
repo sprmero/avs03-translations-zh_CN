@@ -1621,7 +1621,7 @@ msgstr "VLC 路锥"
 #. Upgrade card - description (weapon_cone)
 #. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "附着在你身上的橙色锥体。它们会用热能炙烤所指向的目标。"
+msgstr "附着在你身上的橙色锥体。它们会用热能灼烧所指向的目标。"
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
