@@ -4410,7 +4410,7 @@ msgstr "清除一片区域的敌人，然后从三个插件中选择一个安装
 #. UI (script-driven)
 #. source: Clearzone
 msgid "UI.unlock_file_killzone_reward"
-msgstr "Clearzone"
+msgstr "清理区"
 
 #. UI (script-driven)
 #. source: Install 3 legendary plugins
