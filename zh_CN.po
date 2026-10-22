@@ -1577,8 +1577,7 @@ msgstr "IC 游览器"
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
 msgstr ""
-"在屏幕某处打开一个浏览器标签页，标签页会持续存在，停留在其上的敌人会严重卡"
-"顿。"
+"在屏幕某处打开一个浏览器标签页，标签页会持续存在，停留在其上的敌人会严重卡顿。"
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
