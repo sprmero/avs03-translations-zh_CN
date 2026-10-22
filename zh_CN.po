@@ -2294,7 +2294,7 @@ msgstr "%d KB/s"
 #. UI (script-driven)
 #. source: Vapor - Validating files - {0}% complete
 msgid "UI.vapor_validating"
-msgstr "蒸汽 - 正在验证文件 - 已完成 {0}%"
+msgstr "Vapor - 正在验证文件 - 已完成 {0}%"
 
 #. HUD - level label
 #. source: Level: %d
@@ -2501,7 +2501,7 @@ msgstr "经典"
 #. Cosmetic unlock - vapor theme name
 #. source: Vapor Theme
 msgid "UI.cosmetic_theme_vapor"
-msgstr "蒸汽"
+msgstr "Vapor"
 
 #. Cosmetic unlock - gold theme name
 #. source: Gold Theme
@@ -2616,7 +2616,7 @@ msgstr "经典"
 #. Personalise - theme name
 #. source: Vapor
 msgid "UI.theme_vapor"
-msgstr "蒸汽"
+msgstr "Vapor"
 
 #. Personalise - theme name
 #. source: Olive
@@ -3135,12 +3135,12 @@ msgstr "表 %d"
 #. Vapor store - window title
 #. source: Vapor Store
 msgid "UI.vapor_store_title"
-msgstr "蒸汽商店"
+msgstr "Vapor 商店"
 
 #. Vapor store - black header logo wordmark
 #. source: VAPOR
 msgid "UI.vapor_store_brand"
-msgstr "蒸汽"
+msgstr "Vapor"
 
 #. Vapor store - special files explanation
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
@@ -4095,7 +4095,7 @@ msgstr "成功解压 {amount} 个 Zip 压缩文件"
 #. source: Open vapor.exe {amount} times
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_vapor"
-msgstr "打开 蒸汽.exe {amount} 次"
+msgstr "打开 Vapor.exe {amount} 次"
 
 #. Unlock requirement - clear N of an enemy type
 #. source: Clear {amount} {enemy} enemies
@@ -5533,7 +5533,7 @@ msgstr "注册机.exe"
 
 #. vapor
 msgid "vapor.exe"
-msgstr "蒸汽.exe"
+msgstr "Vapor.exe"
 
 #. frenzy
 msgid "frenzy.exe"
@@ -6312,7 +6312,7 @@ msgstr "1,000,0000 th VISTOR this WEEK!!! PRIZE WON!"
 #. Scene label
 #. screens: vapor_exe.tscn
 msgid "Vapor.exe"
-msgstr "蒸汽.exe"
+msgstr "Vapor.exe"
 
 #. Scene label
 #. screens: zip_window.tscn
