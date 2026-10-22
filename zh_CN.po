@@ -120,7 +120,7 @@ msgstr "混乱"
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr "难度乱成一团，完全摸不着规律。我根本不知道接下来会冒出什么。"
+msgstr "难度不一 没有规律 乱作一团。我都说不准能遇到什么。"
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
