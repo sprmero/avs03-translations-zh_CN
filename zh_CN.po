@@ -763,12 +763,12 @@ msgstr "成功解压的 Zip 压缩包会生成一片绿色的治疗区域。"
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
 msgid "PLUGIN.vapidshare_pro.name"
-msgstr "白度网盘 Pro"
+msgstr "非速网盘 Pro"
 
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
 msgid "PLUGIN.vapidshare_pro.description"
-msgstr "可以并行下载 白度网盘分卷，且下载速度更快。"
+msgstr "可以并行下载 非速网盘分卷，且下载速度更快。"
 
 #. Plugin - name (megacrit)
 #. source: Megacrit
@@ -3754,7 +3754,7 @@ msgstr "打开 %d/%d 个 %s 文件"
 #. Vapidshare window title when Vapidshare Pro plugin is equipped
 #. source: Vapidshare Pro
 msgid "UI.vapidshare_title_pro"
-msgstr "白度网盘 Pro"
+msgstr "非速网盘 Pro"
 
 #. Vapidshare window parts progress
 #. source: Parts %d / %d
@@ -3975,7 +3975,7 @@ msgstr "下载"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr "正在下载另一个分卷。升级 白度网盘 Pro，解锁并行下载。"
+msgstr "正在下载另一个分卷。升级 非速网盘 Pro，解锁并行下载。"
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4389,7 +4389,7 @@ msgstr "下载破解版安装程序的分卷压缩包。"
 #. UI (script-driven)
 #. source: Vapidshare
 msgid "UI.unlock_file_vapidshare_reward"
-msgstr "白度网盘"
+msgstr "非速网盘"
 
 #. UI (script-driven)
 #. source: Install plugins without spending a Key.
@@ -5541,7 +5541,7 @@ msgstr "狂暴模式.exe"
 
 #. Vapidshare
 msgid "Vapidshare.exe"
-msgstr "白度网盘.exe"
+msgstr "非速网盘.exe"
 
 #. Scene label
 msgid "Feedback"
