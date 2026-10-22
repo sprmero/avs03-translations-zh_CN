@@ -1571,7 +1571,7 @@ msgstr ""
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
 msgid "UPGRADE.weapon_cruiser.name"
-msgstr "Internet Cruiser"
+msgstr "IC 游览器"
 
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
@@ -1751,7 +1751,7 @@ msgstr "问号增强版！"
 #. ELITE - name (crawler)
 #. source: Internet Crawler Plus!
 msgid "ELITE.crawler.name"
-msgstr "Internet Crawler 增强版！"
+msgstr "IC 刘监器 增强版！"
 
 #. ELITE - name (avn_buddy)
 #. source: AVN Buddy Plus!
@@ -1786,7 +1786,7 @@ msgstr "大号叹号"
 #. Enemy sniper-feed name - name (crawler)
 #. source: Internet Crawler
 msgid "ENEMY.crawler.name"
-msgstr "Internet Crawler"
+msgstr "IC 刘监器"
 
 #. Enemy sniper-feed name - name (mine)
 #. source: Mine
