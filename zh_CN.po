@@ -1740,12 +1740,12 @@ msgstr "精英敌人"
 #. ELITE - name (error)
 #. source: Error Plus!
 msgid "ELITE.error.name"
-msgstr "叉号增强版！"
+msgstr "错误增强版！"
 
 #. ELITE - name (question)
 #. source: Question Plus!
 msgid "ELITE.question.name"
-msgstr "问号增强版！"
+msgstr "问题增强版！"
 
 #. ELITE - name (crawler)
 #. source: Internet Crawler Plus!
@@ -1760,27 +1760,27 @@ msgstr "AVN 小人增强版！"
 #. Enemy sniper-feed name - name (error)
 #. source: Error
 msgid "ENEMY.error.name"
-msgstr "叉号"
+msgstr "错误"
 
 #. Enemy sniper-feed name - name (big_error)
 #. source: Big Error
 msgid "ENEMY.big_error.name"
-msgstr "大号叉号"
+msgstr "大号错误"
 
 #. Enemy sniper-feed name - name (question)
 #. source: Question
 msgid "ENEMY.question.name"
-msgstr "问号"
+msgstr "问题"
 
 #. Enemy sniper-feed name - name (critical)
 #. source: Critical
 msgid "ENEMY.critical.name"
-msgstr "叹号"
+msgstr "严重"
 
 #. Enemy sniper-feed name - name (big_critical)
 #. source: Big Critical
 msgid "ENEMY.big_critical.name"
-msgstr "大号叹号"
+msgstr "大号严重"
 
 #. Enemy sniper-feed name - name (crawler)
 #. source: Internet Crawler
