@@ -500,7 +500,7 @@ msgstr "压缩文件夹"
 #. Plugin - description (luck_zip_boost)
 #. source: Increase Luck +3% when successfully opening a Zip File.
 msgid "PLUGIN.luck_zip_boost.description"
-msgstr "当成功解压缩 Zip 压缩文件时，幸运 +3%。"
+msgstr "当成功解压 Zip 压缩文件时，幸运 +3%。"
 
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
@@ -758,7 +758,7 @@ msgstr "Zip 修复"
 #. Plugin - description (zip_recover)
 #. source: Successful Zips leave a green healing zone.
 msgid "PLUGIN.zip_recover.description"
-msgstr "成功解压缩的 Zip 压缩包会生成一片绿色的治疗区域。"
+msgstr "成功解压的 Zip 压缩包会生成一片绿色的治疗区域。"
 
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
@@ -2934,7 +2934,7 @@ msgstr "在所有游戏轮次中安装的插件数量。"
 #. Profile stats - zip files opened tooltip
 #. source: Zip archives successfully extracted.
 msgid "UI.stat_zips_desc"
-msgstr "成功解压缩的 Zip 压缩文件数量。"
+msgstr "成功解压的 Zip 压缩文件数量。"
 
 #. Profile stats - failed file opens
 #. source: Spam Ad Attacks
@@ -2944,12 +2944,12 @@ msgstr "垃圾广告攻击"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr "因解压缩缩或下载内存失败而弹出的垃圾广告数量。"
+msgstr "因解压缩或下载内存失败而弹出的垃圾广告数量。"
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
 msgid "UI.stat_rars_desc"
-msgstr "成功解压缩的 Rar 压缩文件数量。"
+msgstr "成功解压的 Rar 压缩文件数量。"
 
 #. Profile stats - file extension row title
 #. source: .%s files opened
@@ -3766,7 +3766,7 @@ msgstr " %d / %d"
 #. Vapidshare window extracting status
 #. source: Extracting...
 msgid "UI.vapidshare_extracting"
-msgstr "正在解压缩..."
+msgstr "正在解压..."
 
 #. Vapidshare window extract finished status
 #. source: Done
@@ -4090,7 +4090,7 @@ msgstr "下载内存 {amount} 次"
 #. source: Successfully extract {amount} Zip files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_extract_zips"
-msgstr "成功解压缩 {amount} 个 Zip 压缩文件"
+msgstr "成功解压 {amount} 个 Zip 压缩文件"
 
 #. Unlock requirement - open vapor.exe N times
 #. source: Open vapor.exe {amount} times
@@ -5031,7 +5031,7 @@ msgstr "双击打开商店"
 #. Desktop icon tooltip
 #. source: Double-Click to Unarchive
 msgid "CLICKABLE.double_click_unarchive"
-msgstr "双击解压缩"
+msgstr "双击解压"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Equip
@@ -5217,7 +5217,7 @@ msgstr "SHZip v2.03"
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
 msgstr ""
-"正在解压缩： \n"
+"正在解压： \n"
 "%s 从 /.???"
 
 #. Zip extractor window
@@ -5232,7 +5232,7 @@ msgstr ""
 #. source: %s extracted successfully.
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracted_success"
-msgstr "%s 解压缩完成，掉落了经验和硬币。"
+msgstr "%s 解压完成，掉落了经验和硬币。"
 
 #. DLL
 #. source: Missing dynamic link library %s located.
@@ -5518,7 +5518,7 @@ msgstr "健康检查"
 
 #. Scene label
 msgid "Pointer Trails"
-msgstr "指针轨迹"
+msgstr "指针踪迹"
 
 #. Scene label
 msgid "Download More RAM"
@@ -6318,7 +6318,7 @@ msgstr "蒸汽.exe"
 #. Scene label
 #. screens: zip_window.tscn
 msgid "SHZip v2.03 (evaluation copy)"
-msgstr "SHZip v2.03（试用版）"
+msgstr "SHZip v2.03（评估版本）"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6326,7 +6326,7 @@ msgid ""
 "Extracting file:\n"
 "temp_file_649743.zip from /.???"
 msgstr ""
-"正在解压缩：\n"
+"正在解压：\n"
 "temp_file_649743.zip 从 /.???"
 
 #. Scene label
