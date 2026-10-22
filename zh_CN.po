@@ -2501,7 +2501,7 @@ msgstr "经典"
 #. Cosmetic unlock - vapor theme name
 #. source: Vapor Theme
 msgid "UI.cosmetic_theme_vapor"
-msgstr "Vapor"
+msgstr "Vapor 主题"
 
 #. Cosmetic unlock - gold theme name
 #. source: Gold Theme
@@ -4095,7 +4095,7 @@ msgstr "成功解压 {amount} 个 Zip 压缩文件"
 #. source: Open vapor.exe {amount} times
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_vapor"
-msgstr "打开 Vapor.exe {amount} 次"
+msgstr "打开 vapor.exe {amount} 次"
 
 #. Unlock requirement - clear N of an enemy type
 #. source: Clear {amount} {enemy} enemies
@@ -5533,7 +5533,7 @@ msgstr "注册机.exe"
 
 #. vapor
 msgid "vapor.exe"
-msgstr "Vapor.exe"
+msgstr "vapor.exe"
 
 #. frenzy
 msgid "frenzy.exe"
