@@ -5262,7 +5262,7 @@ msgstr "安装程序_已破解.pgi"
 #. Desktop icon tooltip
 #. source: LEGENDARY_SETUP.exe
 msgid "CLICKABLE.filename.legendary_installer"
-msgstr "金色传说安装程序.exe"
+msgstr "传说安装程序.exe"
 
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
