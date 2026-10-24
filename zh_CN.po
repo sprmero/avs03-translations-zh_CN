@@ -4339,7 +4339,7 @@ msgstr "减慢周围的速度，让清除敌人更容易。"
 #. UI (script-driven)
 #. source: Heaps of Pain
 msgid "UI.unlock_widget_bullet_time_reward"
-msgstr "托马斯佩恩"
+msgstr "马克时佩恩"
 
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
