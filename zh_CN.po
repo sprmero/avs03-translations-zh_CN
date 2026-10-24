@@ -55,7 +55,7 @@ msgstr ""
 #. Class select - name (vector)
 #. source: Vector
 msgid "CLASS.vector.name"
-msgstr "向量"
+msgstr "矢量"
 
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
