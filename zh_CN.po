@@ -1519,7 +1519,7 @@ msgstr "射出弹来弹去的纸牌，向敌人添加感染层数。"
 #. Upgrade card - name (weapon_fraps)
 #. source: Frames
 msgid "UPGRADE.weapon_fraps.name"
-msgstr "Frames"
+msgstr "帧数"
 
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
