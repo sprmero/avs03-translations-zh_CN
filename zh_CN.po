@@ -4214,7 +4214,7 @@ msgstr "在安全文件夹中用硬币购买密钥，或出售密钥换取硬币
 #. UI (script-driven)
 #. source: KeyBuy
 msgid "UI.unlock_file_keybuy_reward"
-msgstr "闲钥"
+msgstr "淘钥"
 
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
@@ -4541,7 +4541,7 @@ msgstr "在启用“{policy}”策略时完成协议 V。"
 #. KeyBuy window and desktop icon title
 #. source: keyBuy
 msgid "UI.keybuy_title"
-msgstr "闲钥"
+msgstr "淘钥"
 
 #. KeyBuy buy button
 #. source: Buy a Key
