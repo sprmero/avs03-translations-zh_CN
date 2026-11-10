@@ -6098,7 +6098,7 @@ msgstr "(3)“嗨，亲～”火辣单身人士！！！"
 #. Scene label
 #. screens: spam_ad_3.tscn
 msgid "!!! !!  WINNER WINNER WINER!!! !!!"
-msgstr "！！！中奖！中奖！中将啦！！！"
+msgstr "！！！中奖！中奖！中桨啦！！！"
 
 #. Scene label
 #. screens: spam_ad_4.tscn
