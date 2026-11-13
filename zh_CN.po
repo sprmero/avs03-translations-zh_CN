@@ -1665,17 +1665,17 @@ msgstr "死亡旋转沙滩球"
 #. BOSS - name (random)
 #. source: Random Boss
 msgid "BOSS.random.name"
-msgstr "随机Boss"
+msgstr "随机BOSS"
 
 #. BOSS
 #. source: Fight a boss you have not met yet.
 msgid "BOSS.random.tooltip_unmet"
-msgstr "挑战一位您还未遭遇过的Boss。"
+msgstr "挑战一位您还未遭遇过的BOSS。"
 
 #. BOSS
 #. source: Fight a random boss.
 msgid "BOSS.random.tooltip_all_met"
-msgstr "与随机Boss对战。"
+msgstr "与随机BOSS对战。"
 
 #. Elite HUD fallback name
 #. source: Elite
@@ -2256,7 +2256,7 @@ msgstr "前往安全文件夹！"
 #. End-of-round timer prompt when the boss file drops
 #. source: Get to the Boss File!
 msgid "UI.get_to_boss_file"
-msgstr "前往 Boss 文件！"
+msgstr "前往BOSS文件！"
 
 #. Upgrade screen - title
 #. source: Level Up!
@@ -3212,7 +3212,7 @@ msgstr "协议"
 #. Task tooltip type - boss file
 #. source: Boss File
 msgid "UI.task_group_singular_file"
-msgstr "Boss 文件"
+msgstr "BOSS文件"
 
 #. Task tooltip type - singular
 #. source: Theme
@@ -4121,7 +4121,7 @@ msgstr "击败“{boss}”"
 #. Unlock requirement - defeat any boss
 #. source: Defeat any boss
 msgid "UI.unlock_defeat_any_boss"
-msgstr "击败任意Boss"
+msgstr "击败任意BOSS"
 
 #. Unlock reward - boss choice file
 #. source: {boss} File
@@ -4133,7 +4133,7 @@ msgstr "{boss}文件"
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_desc"
-msgstr "让您在一轮游戏结束时指定{boss}而非随机Boss进行对战。"
+msgstr "让您在一轮游戏结束时指定{boss}而非随机BOSS进行对战。"
 
 #. Unlock requirement - land a hit of N damage
 #. source: Land a single hit of {amount} damage
