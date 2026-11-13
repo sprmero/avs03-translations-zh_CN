@@ -726,12 +726,12 @@ msgstr "成功解压的Zip压缩包会生成一片绿色的治疗区域。"
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
 msgid "PLUGIN.vapidshare_pro.name"
-msgstr "非速网盘Pro"
+msgstr "非速网盘专业版"
 
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
 msgid "PLUGIN.vapidshare_pro.description"
-msgstr "可以并行下载”非速网盘“分卷，且下载速度更快。"
+msgstr "可以并行下载“非速网盘”分卷，且下载速度更快。"
 
 #. Plugin - name (megacrit)
 #. source: Megacrit
@@ -1037,7 +1037,7 @@ msgstr "处理速度"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr "提高所有文件的处理速度倍率，包括.zip、.bat、“LemWire等”（按指数计算）。"
+msgstr "提高所有文件的处理速度倍率，包括.zip、.bat、“LemWire”等（按指数计算）。"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -2256,7 +2256,7 @@ msgstr "前往安全文件夹！"
 #. End-of-round timer prompt when the boss file drops
 #. source: Get to the Boss File!
 msgid "UI.get_to_boss_file"
-msgstr "前往 BOSS 文件！"
+msgstr "前往BOSS文件！"
 
 #. Upgrade screen - title
 #. source: Level Up!
@@ -2302,7 +2302,7 @@ msgstr "已登录"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr "请单击您的用户名以开始。\n登录后，单击菜单顶部的用户名即可切换用户。"
+msgstr "要开始使用，请单击您的用户名。\n登录后，您可以单击菜单来切换用户配置文件。"
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2514,17 +2514,17 @@ msgstr "Orchestra"
 #. Personalise - avatar name
 #. source: Zip
 msgid "UI.avatar_zip"
-msgstr "Zip"
+msgstr "压缩包"
 
 #. Personalise - avatar name
 #. source: Crawler
 msgid "UI.avatar_crawler"
-msgstr "Crawler"
+msgstr "刘监器"
 
 #. Personalise - avatar name
 #. source: Cruiser
 msgid "UI.avatar_cruiser"
-msgstr "Cruiser"
+msgstr "游览器"
 
 #. Personalise - avatar name
 #. source: Enemy
@@ -2814,7 +2814,7 @@ msgstr "单次攻击造成的最高伤害量。"
 #. Profile stats - files opened
 #. source: Files Opened
 msgid "UI.stat_files_opened"
-msgstr "文件开启数"
+msgstr "文件打开次数"
 
 #. Profile stats - files opened tooltip
 #. source: All folders and files double-clicked across runs.
@@ -3212,7 +3212,7 @@ msgstr "协议"
 #. Task tooltip type - boss file
 #. source: Boss File
 msgid "UI.task_group_singular_file"
-msgstr "BOSS 文件"
+msgstr "BOSS文件"
 
 #. Task tooltip type - singular
 #. source: Theme
@@ -3758,7 +3758,7 @@ msgstr "您赢了！"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr "发生致命的异常错误，为防止数据损坏，系统已被终止。\n\nCODE_HALTED:SYSTEM_COHERENCE_FAILURE\n\n如果这是您首次看到此终止界面，请重启系统。如果此界面仍然出现，内部模块可能被破坏。\n\n请验证已安装组件的完整性。异常行为可能表明内存损坏、无效数据包注入或存在未经授权的脚本执行。如问题仍未解决，请执行安全重启或联系系统内部管理员。\n\n转储信息：\n\nSTOP:0x0000000d (0xFF0000Fa,0x00000023,0x00000022,0x820ea23b)\n\n开始强制关机...\n\n内存缓存已刷新。\n\n请按{click}继续，按{tab}查看统计信息。"
+msgstr "发生致命的异常错误，为防止数据损坏，系统已被终止。\n\nCODE_HALTED:SYSTEM_COHERENCE_FAILURE\n\n如果这是您首次看到此终止界面，请重启系统。如果此界面仍然出现，内部模块可能被破坏。\n\n请验证已安装组件的完整性。异常行为可能表明内存损坏、无效数据包注入或存在未经授权的脚本执行。如问题仍未解决，请执行安全重启或联系系统内部管理员。\n\n转储信息：\nSTOP:0x0000000d (0xFF0000Fa,0x00000023,0x00000022,0x820ea23b)\n\n开始强制关机...\n\n内存缓存已刷新。\n\n请按{click}继续，按{tab}查看统计信息。"
 
 #. Browser address-bar caption
 #. source: Address
@@ -3840,7 +3840,7 @@ msgstr "下载"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr "正在下载另一个分卷。升级“非速网盘Pro”，解锁并行下载。"
+msgstr "正在下载另一个分卷。升级“非速网盘专业版”，解锁并行下载。"
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -5114,7 +5114,7 @@ msgstr "安装程序.pgi"
 #. Desktop icon tooltip
 #. source: cracked_installer.pgi
 msgid "CLICKABLE.filename.cracked_installer"
-msgstr "安装程序_已破解.pgi"
+msgstr "安装程序_破解版.pgi"
 
 #. Desktop icon tooltip
 #. source: LEGENDARY_SETUP.exe
@@ -5988,7 +5988,7 @@ msgstr "伤害 +50%。\n数量 +1。\n刷新 -15%。"
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
 msgid "(1) Alert!!! CRITICAL"
-msgstr "(1)警告！！！情况危急"
+msgstr "(1)警告！！！严重错误"
 
 #. Scene label
 #. screens: headshot_text.tscn
