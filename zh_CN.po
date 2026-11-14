@@ -5519,7 +5519,7 @@ msgstr "自动回复"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr "武器数量 +1。\n武器攻速 +20%。\n武器大小 +15%。"
+msgstr "武器增量 +1。\n武器攻速 +20%。\n武器大小 +15%。"
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5649,7 +5649,7 @@ msgstr "火焰邮件"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr "将感染转化为灼烧。\n武器增量 +1。\n武器速度 +35%。"
+msgstr "将感染转化为灼烧。\n武器增量 +1。\n武器攻速 +35%。"
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
